@@ -1,0 +1,1174 @@
+[
+ {
+  "id": "qb12g_01",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_1",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Chất rắn khó bị nén vì",
+  "explanation": "Các phân tử chất rắn sắp xếp chặt chẽ, có trật tự, khoảng cách giữa chúng rất nhỏ nên lực đẩy phân tử tăng rất nhanh khi bị nén.",
+  "options": [
+   "các phân tử trong chất rắn di chuyển tự do, va chạm ngẫu nhiên.",
+   "lực tương tác giữa các phân tử trong chất rắn rất yếu.",
+   "các phân tử trong chất rắn sắp xếp chặt chẽ, có trật tự và khoảng cách giữa chúng rất nhỏ.",
+   "các phân tử trong chất rắn thưa thớt và có khoảng cách rất xa nhau."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_02",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_1",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Một số chất ở thể rắn như iodine, băng phiến, đá khô,… có thể chuyển trực tiếp sang …(1)… khi nó …(2)… Hiện tượng trên gọi là sự thăng hoa. Ngược lại với sự thăng hoa là sự ngưng kết. Điền cụm từ thích hợp vào chỗ trống.",
+  "explanation": "Sự thăng hoa là quá trình chuyển trực tiếp từ thể rắn sang thể hơi (khí) khi vật nhận nhiệt lượng.",
+  "options": [
+   "(1) thể lỏng; (2) nhận nhiệt.",
+   "(1) thể hơi; (2) nhận nhiệt.",
+   "(1) thể lỏng; (2) tỏa nhiệt.",
+   "(1) thể hơi; (2) tỏa nhiệt."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_03",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_1",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Đặc điểm nào sau đây là đặc điểm của thể lỏng?",
+  "explanation": "Ở thể lỏng, lực tương tác phân tử yếu hơn ở thể rắn nên các phân tử có thể trượt lên nhau, do đó chất lỏng có thể tích xác định nhưng không có hình dạng riêng.",
+  "options": [
+   "Khoảng cách giữa các phân tử rất lớn so với kích thước của chúng.",
+   "Lực tương tác phân tử yếu hơn lực tương tác phân tử ở thể rắn.",
+   "Không có thể tích và hình dạng riêng xác định.",
+   "Các phân tử dao động xung quanh vị trí cân bằng xác định."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_04",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "\"Độ không tuyệt đối\" là nhiệt độ ứng với",
+  "explanation": "Độ không tuyệt đối trong thang Kelvin là $0\\text{ K}$ (tương ứng với $-273,15^\\circ\\text{C}$).",
+  "options": [
+   "$0\\text{ K}$.",
+   "$0^\\circ\\text{C}$.",
+   "$273^\\circ\\text{C}$.",
+   "$273\\text{ K}$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_05",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Cách xác định nhiệt độ trong thang nhiệt độ Celsius là?",
+  "explanation": "Thang Celsius lấy mốc $0^\\circ\\text{C}$ là nhiệt độ nước đá đang tan và $100^\\circ\\text{C}$ là nhiệt độ hơi nước đang sôi ở áp suất tiêu chuẩn $1\\text{ atm}$.",
+  "options": [
+   "Lấy nhiệt độ của nước khi đóng băng là ($10^\\circ\\text{C}$) và nhiệt độ sôi của nước ($0^\\circ\\text{C}$) làm chuẩn.",
+   "Lấy nhiệt độ của nước khi đóng băng là ($100^\\circ\\text{C}$) và nhiệt độ sôi của nước ($10^\\circ\\text{C}$) làm chuẩn.",
+   "Lấy nhiệt độ của nước khi đóng băng là ($0^\\circ\\text{C}$) và nhiệt độ sôi của nước ($100^\\circ\\text{C}$) làm chuẩn.",
+   "Lấy nhiệt độ của nước khi đóng băng là ($10^\\circ\\text{C}$) và nhiệt độ sôi của nước ($100^\\circ\\text{C}$) làm chuẩn."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_06",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nhiệt kế nào sau đây hoạt động dựa trên hiện tượng dãn nở vì nhiệt của chất lỏng?",
+  "explanation": "Nhiệt kế thủy ngân (và nhiệt kế rượu) hoạt động dựa trên sự dãn nở vì nhiệt của chất lỏng.",
+  "options": [
+   "Nhiệt kế thủy ngân.",
+   "Nhiệt kế kim loại.",
+   "Nhiệt kế hồng ngoại.",
+   "Nhiệt kế điện tử."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_07",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Phát biểu nào sau đây về các loại nhiệt kế là sai?",
+  "explanation": "Nhiệt kế điện tử hoạt động dựa trên cảm biến điện trở nhiệt (bán dẫn) chứ không dùng thủy ngân.",
+  "options": [
+   "Trước khi dùng nhiệt kế thủy ngân để đo nhiệt độ cơ thể cần vẩy nhiệt kế cho thuỷ ngân tụt xuống bầu.",
+   "Nhiệt kế kim loại có độ bền cao và dải đo nhiệt độ rộng.",
+   "Nhiệt kế điện tử có bản chất là nhiệt kế thủy ngân.",
+   "Nhiệt kế hồng ngoại đo bức xạ hồng ngoại từ cơ thể phát ra, từ đó xác định nhiệt độ cơ thể."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_08",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_4",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Khi truyền cùng một nhiệt lượng cho hai vật có cùng khối lượng được làm từ hai chất khác nhau, trong điều kiện không xảy ra sự chuyển thể, phát biểu nào sau đây là đúng?",
+  "explanation": "Từ công thức $Q = m \\cdot c \\cdot \\Delta T \\Rightarrow \\Delta T = \\frac{Q}{m \\cdot c}$. Với cùng $Q$ và $m$, chất nào có nhiệt dung riêng $c$ lớn hơn thì độ biến thiên nhiệt độ $\\Delta T$ nhỏ hơn.",
+  "options": [
+   "Vật được làm từ chất có nhiệt dung riêng lớn hơn có độ biến thiên nhiệt độ lớn hơn.",
+   "Hai vật có độ biến thiên nhiệt độ bằng nhau.",
+   "Hai vật không thay đổi nhiệt độ.",
+   "Vật được làm từ chất có nhiệt dung riêng lớn hơn có độ biến thiên nhiệt độ nhỏ hơn."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_09",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nội năng của một vật là",
+  "explanation": "Theo định nghĩa nhiệt động lực học, nội năng của vật là tổng động năng và thế năng tương tác của các phân tử cấu tạo nên vật.",
+  "options": [
+   "tổng động năng và thế năng của vật.",
+   "tổng nhiệt lượng và cơ năng mà vật nhận được trong quá trình truyền nhiệt và thực hiện công.",
+   "tổng động năng và thế năng của các phân tử cấu tạo nên vật.",
+   "nhiệt lượng vật nhận được trong quá trình truyền nhiệt."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_10",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Quy ước về dấu nào sau đây phù hợp với công thức $\\Delta U = A + Q$ của nguyên lí I NĐLH?",
+  "explanation": "Theo quy ước dấu của Nguyên lí I NĐLH ($\\Delta U = A + Q$): $Q > 0$ vật nhận nhiệt lượng, $Q < 0$ vật truyền nhiệt lượng; $A > 0$ vật nhận công, $A < 0$ vật thực hiện công.",
+  "options": [
+   "Vật nhận công: $A < 0$; vật nhận nhiệt: $Q < 0$.",
+   "Vật nhận công: $A > 0$; vật nhận nhiệt: $Q > 0$.",
+   "Vật thực hiện công: $A < 0$; vật truyền nhiệt: $Q > 0$.",
+   "Vật thực hiện công: $A > 0$; vật truyền nhiệt: $Q < 0$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_11",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nội năng của một vật phụ thuộc vào",
+  "explanation": "Nội năng của một vật (một lượng chất xác định) phụ thuộc vào nhiệt độ và thể tích của vật.",
+  "options": [
+   "nhiệt độ, áp suất và khối lượng.",
+   "nhiệt độ và áp suất.",
+   "nhiệt độ và thể tích.",
+   "nhiệt độ, áp suất và thể tích."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_12",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Phát biểu nào sau đây về nội năng là không đúng?",
+  "explanation": "Nhiệt lượng là phần nội năng mà vật nhận thêm hay mất bớt đi trong quá trình truyền nhiệt, không phải bản thân nội năng.",
+  "options": [
+   "Nội năng là một dạng năng lượng.",
+   "Nội năng là nhiệt lượng.",
+   "Nội năng của một vật có thể tăng hoặc giảm.",
+   "Nội năng có thể chuyển thành dạng năng lượng khác."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_13",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Chọn phát biểu sai về biến đổi nội năng.",
+  "explanation": "Khi hệ vừa thực hiện công ($A < 0$) vừa truyền nhiệt ($Q < 0$) thì $\\Delta U = A + Q < 0$, nội năng của hệ phải giảm xuống.",
+  "options": [
+   "Khi hệ nhận công, nội năng tăng lên.",
+   "Nội năng hệ thay đổi được bằng cách truyền nhiệt hoặc thực hiện công.",
+   "Khi hệ truyền nhiệt lượng, nội năng hệ giảm xuống.",
+   "Khi hệ vừa thực hiện công vừa truyền nhiệt thì nội năng tăng lên."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_14",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Bố trí thí nghiệm như hình bên (Hình 2.2 - Thí nghiệm đun nóng ống nghiệm có nút bấc). Dùng đèn cồn đun nóng ống nghiệm cho đến khi nút bấc bật ra. Coi sự nở vì nhiệt của ống thủy tinh không đáng kể. Chọn đáp án đúng.",
+  "explanation": "Khi đun nóng, khí nhận nhiệt làm nhiệt độ tăng, động năng trung bình của các phân tử khí tăng, va chạm vào nút bấc mạnh hơn làm áp suất tăng và đẩy nút bấc bật ra.",
+  "options": [
+   "Khi nút chưa bị bật ra, nội năng của không khí trong ống nghiệm không thay đổi.",
+   "Nội năng của không khí trong ống nghiệm tăng do thế năng phân tử khí và động năng của các phân tử khí đều tăng.",
+   "Nút bấc bật ra do áp suất bên trong ống nghiệm giảm.",
+   "Hiện tượng nút ống nghiệm bị bật ra chứng tỏ động năng của các phân tử khí trong ống nghiệm tăng."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_15",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_1",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Đưa cốc nước lạnh ra ngoài trời nóng thì thấy xuất hiện một lớp nước bám ngoài thành cốc. Đó là do hiện tượng",
+  "explanation": "Hơi nước trong không khí gặp thành cốc lạnh mất nhiệt và ngưng tụ thành các giọt nước lỏng bám bên ngoài.",
+  "options": [
+   "bay hơi.",
+   "nóng chảy.",
+   "thăng hoa.",
+   "ngưng tụ."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_16",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_5",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Trường hợp nào sau đây liên quan tới sự nóng chảy?",
+  "explanation": "Sự nóng chảy là quá trình chuyển từ thể rắn (khối đồng rắn) sang thể lỏng (đồng lỏng).",
+  "options": [
+   "Sương đọng trên lá cây.",
+   "Khăn ướt sẽ khô khi được phơi ra nắng.",
+   "Đun nước đổ đầy ấm, nước có thể tràn ra ngoài.",
+   "Nung nóng khối đồng làm nó chuyển sang thể lỏng."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_17",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_6",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nhiệt lượng cần cung cấp cho $1\\text{ kg}$ chất lỏng hóa hơi hoàn toàn ở nhiệt độ xác định được gọi là",
+  "explanation": "Nhiệt hóa hơi riêng $L$ của một chất lỏng là nhiệt lượng cần cung cấp để làm cho $1\\text{ kg}$ chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ xác định.",
+  "options": [
+   "nhiệt nóng chảy riêng.",
+   "nhiệt hóa hơi riêng.",
+   "nhiệt nóng chảy.",
+   "nhiệt hóa hơi."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_18",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_5",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Trường hợp nào sau đây liên quan tới sự nóng chảy?",
+  "explanation": "Cục nước đá (thể rắn) tan thành nước (thể lỏng) là hiện tượng nóng chảy.",
+  "options": [
+   "Sương đọng trên lá cây.",
+   "Khăn ướt sẽ khô khi được phơi ra nắng.",
+   "Đun nước đổ đầy ấm, nước có thể tràn ra ngoài.",
+   "Cục nước đá bỏ từ tủ đá ra ngoài, sau một thời gian, tan thành nước."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_19",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_1",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Trong các trường hợp dưới đây, trường hợp nào liên quan đến sự bay hơi?",
+  "explanation": "Nước trong cốc chuyển dần từ thể lỏng sang thể hơi ở mặt thoáng làm cốc nước cạn dần là sự bay hơi.",
+  "options": [
+   "Kính cửa sổ bị mờ đi trong những ngày đông giá lạnh.",
+   "Cốc nước bị cạn dần khi để ngoài trời nắng.",
+   "Miếng bơ để bên ngoài tủ lạnh sau một thời gian bị chảy lỏng.",
+   "Đưa nước vào trong tủ lạnh để làm đá."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_20",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_6",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Khi đun một ấm nước, lúc nước đang sôi, dù tiếp tục được cung cấp nhiệt lượng thì nhiệt độ vẫn ở $100^\\circ\\text{C}$ cho đến khi cạn nước. Phát biểu nào sau đây là đúng?",
+  "explanation": "Trong suốt quá trình sôi, nhiệt độ không đổi nên động năng trung bình phân tử không đổi; nhiệt lượng nhận vào dùng để phá vỡ liên kết phân tử (tăng thế năng tương tác) chuyển nước sang thể hơi.",
+  "options": [
+   "Việc đun với công suất nhiệt cao hơn sẽ làm nhiệt độ sôi của nước cao hơn $100^\\circ\\text{C}$.",
+   "Do nhiệt độ của nước không thay đổi nên nội năng của khối nước trong ấm không đổi.",
+   "Nhiệt lượng cung cấp cho nước đang sôi làm tăng tốc độ trung bình của các phân tử nước.",
+   "Nhiệt lượng cung cấp cho nước đang sôi dùng để phá vỡ liên kết giữa các phân tử nước."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_21",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_4",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Calo là nhiệt lượng cần thiết để làm cho một gam nước nóng thêm $1^\\circ\\text{C}$. Hãy cho biết $1\\text{ calo}$ bằng bao nhiêu jun?",
+  "explanation": "Theo quy đổi đơn vị nhiệt lượng, $1\\text{ cal} \\approx 4,186\\text{ J} \\approx 4,2\\text{ J}$.",
+  "options": [
+   "$1\\text{ calo} \\approx 4200\\text{ J}$",
+   "$1\\text{ calo} \\approx 4,2\\text{ J}$",
+   "$1\\text{ calo} \\approx 42\\text{ J}$",
+   "$1\\text{ calo} \\approx 42\\text{ kJ}$"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_22",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Tập hợp ba thông số nào sau đây xác định trạng thái của một lượng khí xác định?",
+  "explanation": "Ba thông số trạng thái của một lượng khí xác định gồm: áp suất ($p$), thể tích ($V$) và nhiệt độ tuyệt đối ($T$).",
+  "options": [
+   "Áp suất, thể tích, khối lượng.",
+   "Áp suất, nhiệt độ, thể tích.",
+   "Thể tích, trọng lượng, áp suất.",
+   "Áp suất, nhiệt độ, khối lượng."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_23",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Khi một khối khí lí tưởng xác định dãn nở đẳng nhiệt thì",
+  "explanation": "Theo định luật Boyle ($pV = \\text{hằng số}$), khi khí dãn nở đẳng nhiệt ($V$ tăng, $T$ không đổi) thì áp suất $p$ giảm và nội năng của khí lí tưởng không đổi.",
+  "options": [
+   "nội năng của khối khí tăng.",
+   "áp suất của khối khí giảm.",
+   "nội năng của khối khí giảm.",
+   "áp suất của khối khí không đổi."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_24",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một khối khí lí tưởng xác định biến đổi theo quá trình đẳng tích từ trạng thái X sang trạng thái Y, phát biểu nào sau đây là đúng?",
+  "explanation": "Trong quá trình đẳng tích, thể tích khí không đổi ($\\Delta V = 0$) nên khối khí không sinh công và cũng không nhận công ($A = 0$).",
+  "options": [
+   "Khoảng cách trung bình giữa các phân tử tăng lên.",
+   "Nhiệt độ của khối khí không đổi.",
+   "Mật độ phân tử của khối khí tăng lên.",
+   "Công mà khối khí sinh ra bằng không."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_25",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Hệ thức nào sau đây không phù hợp với quá trình đẳng áp?",
+  "explanation": "Theo định luật Charles, trong quá trình đẳng áp, thể tích $V$ tỉ lệ thuận với nhiệt độ tuyệt đối $T$ ($V \\sim T$), do đó $V \\sim \\frac{1}{T}$ là sai.",
+  "options": [
+   "$\\frac{V}{T} = \\text{hằng số}$.",
+   "$V \\sim \\frac{1}{T}$.",
+   "$V \\sim T$.",
+   "$\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_26",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Đối với một lượng khí lí tưởng xác định, khi nhiệt độ không đổi thì áp suất",
+  "explanation": "Định luật Boyle: Ở nhiệt độ không đổi, áp suất của một lượng khí xác định tỉ lệ nghịch với thể tích của nó.",
+  "options": [
+   "tỉ lệ nghịch với thể tích.",
+   "tỉ lệ thuận với bình phương thể tích.",
+   "tỉ lệ thuận với thể tích.",
+   "tỉ lệ nghịch với bình phương thể tích."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_27",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Hệ thức nào dưới đây không phù hợp với quá trình đẳng tích của một khối khí xác định?",
+  "explanation": "Trong quá trình đẳng tích, áp suất $p$ tỉ lệ thuận với nhiệt độ tuyệt đối $T$ ($p \\sim T$), nên $p \\sim \\frac{1}{T}$ là không phù hợp.",
+  "options": [
+   "$\\frac{p}{T} = \\text{hằng số}$.",
+   "$p \\sim \\frac{1}{T}$.",
+   "$p \\sim T$.",
+   "$\\frac{p_1}{T_1} = \\frac{p_2}{T_2}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_28",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Quá trình nào sau đây là đúng về quá trình đẳng tích của một khối khí xác định?",
+  "explanation": "Xilanh kín (pit-tông cố định) giữ cho thể tích và lượng khí bên trong không đổi khi đun nóng.",
+  "options": [
+   "Quả bóng bàn bị bẹp nhúng vào nước nóng, phồng lên như cũ.",
+   "Thổi không khí vào một quả bóng bay.",
+   "Đun nóng khí trong một xilanh kín.",
+   "Đun nóng khí trong một xilanh hở."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_29",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Đường nào sau đây không biểu diễn quá trình đẳng nhiệt? (Xem hình 4 đồ thị: A. Hyperbol $P-V$; B. Đường thẳng ngang $T-P$; C. Đường thẳng ngang $T-V$; D. Đường thẳng ngang $P-V$).",
+  "explanation": "Hình D có áp suất $P$ không đổi nên là đường đẳng áp, không phải đường đẳng nhiệt.",
+  "options": [
+   "Hình A (đường hyperbol trong hệ $P-V$).",
+   "Hình B (đường thẳng vuông góc trục $T$ trong hệ $T-P$).",
+   "Hình C (đường thẳng vuông góc trục $T$ trong hệ $T-V$).",
+   "Hình D (đường thẳng vuông góc trục $P$ trong hệ $P-V$)."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_30",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Đường biểu diễn nào sau đây không phù hợp với quá trình đẳng tích? (Xem hình 4 đồ thị: A. Đứng thẳng $p-V$; B. Chéo cắt $-273^\\circ\\text{C}$ trong $p-t^\\circ\\text{C}$; C. Ngang $p-V$; D. Chéo qua gốc $O$ trong $p-T$).",
+  "explanation": "Hình C biểu diễn áp suất $p$ không đổi khi thể tích $V$ thay đổi, đây là quá trình đẳng áp.",
+  "options": [
+   "Hình A (đường thẳng vuông góc trục $V$ trong hệ $p-V$).",
+   "Hình B (đường thẳng cắt trục hoành tại $-273^\\circ\\text{C}$ trong hệ $p-t^\\circ\\text{C}$).",
+   "Hình C (đường thẳng vuông góc trục $p$ trong hệ $p-V$).",
+   "Hình D (đường thẳng kéo dài đi qua gốc tọa độ $O$ trong hệ $p-T$)."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_31",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_10",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 3,
+  "image": "",
+  "question": "Cho đồ thị hai đường đẳng áp ($p_1$ nằm trên $p_2$ trong hệ tọa độ $V - T$) của cùng một khối khí xác định như hình vẽ. Đáp án nào sau đây đúng?",
+  "explanation": "Kẻ một đường đẳng nhiệt $T = \\text{const}$ cắt hai đường đẳng áp, ta thấy $V_1 > V_2$. Vì ở cùng nhiệt độ $p$ tỉ lệ nghịch với $V$ nên $p_1 < p_2$.",
+  "options": [
+   "$p_1 > p_2$.",
+   "$p_1 < p_2$.",
+   "$p_1 = p_2$.",
+   "$p_1 \\ge p_2$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_32",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Hệ thức nào sau đây không phù hợp với phương trình trạng thái của khí lí tưởng?",
+  "explanation": "Phương trình trạng thái khí lí tưởng có dạng $\\frac{pV}{T} = \\text{hằng số}$, nên $\\frac{pT}{V} = \\text{hằng số}$ là sai.",
+  "options": [
+   "$\\frac{pV}{T} = \\text{hằng số}$.",
+   "$\\frac{p_1V_1}{T_1} = \\frac{p_2V_2}{T_2}$.",
+   "$pV \\sim T$.",
+   "$\\frac{pT}{V} = \\text{hằng số}$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_33",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Gọi $p, V, T$ là các thông số trạng thái, $m$ là khối lượng khí, $M$ là khối lượng mol của khí và $R$ là hằng số của khí lí tưởng. Phương trình Clapeyron có dạng",
+  "explanation": "Phương trình Clapeyron - Mendeleev có dạng $pV = nRT = \\frac{m}{M}RT$.",
+  "options": [
+   "$pV = \\frac{m}{M}t$.",
+   "$pVT = \\frac{m}{M}R$.",
+   "$pV = \\frac{m}{M}T$.",
+   "$pV = \\frac{m}{M}RT$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_34",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Hãy chọn câu đúng. Khi nén khí đẳng nhiệt thì số phân tử trong đơn vị thể tích",
+  "explanation": "Mật độ phân tử $n = \\frac{N}{V}$. Trong quá trình nén đẳng nhiệt, $p = n k T$ với $T$ không đổi nên $n$ tăng và tỉ lệ thuận với áp suất $p$.",
+  "options": [
+   "tăng, tỉ lệ thuận với áp suất.",
+   "không đổi.",
+   "giảm, tỉ lệ nghịch với áp suất.",
+   "tăng, tỉ lệ với bình phương áp suất."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_35",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 3,
+  "image": "",
+  "question": "Hai bình chứa khí lí tưởng ở cùng nhiệt độ. Bình $B$ có dung tích gấp bốn bình $A$, có số phân tử nhiều gấp hai số phân tử trong bình $A$. Tỉ số áp suất khí trong bình $B$ so với áp suất khí trong bình $A$ là",
+  "explanation": "Từ $p = \\frac{N}{V}kT$, vì $T_A = T_B$ nên $\\frac{p_B}{p_A} = \\frac{N_B}{N_A} \\cdot \\frac{V_A}{V_B} = 2 \\cdot \\frac{1}{4} = \\frac{1}{2}$.",
+  "options": [
+   "$2 : 1$.",
+   "$1 : 2$.",
+   "$1 : 8$.",
+   "$8 : 1$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_36",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 3,
+  "image": "",
+  "question": "Hai bình A, B chứa khí lí tưởng. Khí trong bình A có áp suất $p$, thể tích $V$ và nhiệt độ $T$; khí trong bình B có áp suất $2p$, thể tích $V/3$ và nhiệt độ $1,5T$. Tỉ số giữa số phân tử trong bình A so với bình B là",
+  "explanation": "Từ $pV = NkT \\Rightarrow N = \\frac{pV}{kT}$. Ta có $\\frac{N_A}{N_B} = \\frac{p_A V_A}{T_A} \\cdot \\frac{T_B}{p_B V_B} = \\frac{p \\cdot V}{T} \\cdot \\frac{1,5T}{2p \\cdot (V/3)} = \\frac{1,5}{2/3} = \\frac{9}{4}$.",
+  "options": [
+   "$3 : 1$.",
+   "$1 : 3$.",
+   "$9 : 4$.",
+   "$4 : 9$."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_37",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_8",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Phát biểu nào sau đây sai khi nói về mô hình động học phân tử?",
+  "explanation": "Các chất được cấu tạo từ các hạt riêng biệt (phân tử) và giữa các phân tử luôn có khoảng cách.",
+  "options": [
+   "Các phân tử cấu tạo nên vật chuyển động hỗn loạn không ngừng.",
+   "Giữa các phân tử không có khoảng cách nên lực tương tác khá mạnh.",
+   "Lực tương tác giữa các phân tử gồm cả lực đẩy và lực hút.",
+   "Các phân tử chuyển động nhiệt càng nhanh thì nhiệt độ của vật càng cao."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_38",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Phát biểu nào sau đây sai khi nói về áp suất chất khí từ mô hình động học phân tử khí?",
+  "explanation": "Áp suất chất khí $p = \\frac{1}{3}\\mu m \\overline{v^2}$ tỉ lệ thuận với trung bình của bình phương tốc độ phân tử ($\\overline{v^2}$), không phải tỉ lệ bậc nhất với tốc độ trung bình.",
+  "options": [
+   "Khi tốc độ phân tử trung bình tăng lên gấp đôi, áp suất cũng tăng lên gấp đôi.",
+   "Các phân tử khí được coi là chất điểm, va chạm của chúng là va chạm đàn hồi.",
+   "Giữa hai lần va chạm liên tiếp, các phân tử chuyển động tự do vì không có lực tác dụng lên nó.",
+   "Áp suất chất khí tác dụng lên thành bình tỉ lệ thuận với động năng trung bình của phân tử khí."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_39",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_8",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Phát biểu nào sau đây sai về cấu trúc chất khí?",
+  "explanation": "Chất khí không có hình dạng và thể tích riêng xác định mà luôn chiếm toàn bộ thể tích của bình chứa.",
+  "options": [
+   "Khoảng cách giữa các phân tử chất khí rất lớn so với kích thước của chúng.",
+   "Trừ khi va chạm, lực tương tác giữa các phân tử khí rất nhỏ, hầu như không đáng kể.",
+   "Một lượng không khí luôn có thể tích và hình dạng riêng xác định.",
+   "Các phân tử chuyển động hỗn loạn, không ngừng về mọi phía, chiếm toàn bộ không gian bình chứa."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_40",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_8",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nguyên nhân cơ bản nào sau đây gây ra áp suất của chất khí?",
+  "explanation": "Áp suất chất khí tác dụng lên thành bình là do vô số phân tử khí chuyển động hỗn loạn va chạm đàn hồi vào thành bình.",
+  "options": [
+   "Do chất khí thường có thể tích lớn.",
+   "Do chất khí thường được đựng trong bình kín.",
+   "Do chất khí thường có khối lượng riêng nhỏ.",
+   "Do trong khi chuyển động các phân tử khí va chạm vào thành bình."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_41",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Động năng trung bình của các phân tử chất khí phụ thuộc vào",
+  "explanation": "Động năng tịnh tiến trung bình của phân tử khí $\\overline{E_đ} = \\frac{3}{2}kT$ chỉ phụ thuộc vào nhiệt độ tuyệt đối $T$ của chất khí.",
+  "options": [
+   "tốc độ và khối lượng chất khí trong bình.",
+   "khối lượng và tốc độ phân tử.",
+   "nhiệt độ của chất khí.",
+   "khối lượng và nhiệt độ của chất khí."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_42",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Chọn phát biểu đúng. Trong một khối khí lí tưởng",
+  "explanation": "Động năng trung bình của phân tử khí tỉ lệ thuận với nhiệt độ tuyệt đối ($\\overline{E_đ} = \\frac{3}{2}kT$) và không phụ thuộc vào bản chất khí.",
+  "options": [
+   "các phân tử khí chỉ tác dụng lên nhau bằng lực đẩy nên chất khí có tính khuếch tán.",
+   "vận tốc các phân tử như nhau ở mọi nhiệt độ.",
+   "động năng trung bình của các phân tử chất khí chỉ phụ thuộc vào nhiệt độ của chất khí.",
+   "lực va chạm giữa các phân tử với nhau trong chuyển động nhiệt gây ra áp suất của chất khí lên thành bình chứa."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb12g_43",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Khi làm lạnh khối khí trong một bình kín thì các phân tử khí sẽ",
+  "explanation": "Trong bình kín thông thường (hoặc khi làm lạnh co lại), nhiệt độ giảm làm chuyển động nhiệt yếu đi; lưu ý nếu đề xét bình kín cố định thể tích thì tốc độ giảm và áp suất giảm (nếu xét khối khí co lại thì các phân tử xích lại gần nhau hơn).",
+  "options": [
+   "có tốc độ trung bình lớn hơn.",
+   "nở ra lớn hơn.",
+   "liên kết lại với nhau.",
+   "xích lại gần nhau hơn."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb12g_44",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Một khối khí có mật độ phân tử $\\mu$, động năng phân tử trung bình $E_đ$. Công thức nào sau đây là đúng về áp suất chất khí theo mô hình động học phân tử khí?",
+  "explanation": "Công thức cơ bản của thuyết động học phân tử chất khí: $p = \\frac{2}{3}\\mu \\overline{E_đ}$.",
+  "options": [
+   "$p = \\frac{3}{2}\\mu E_đ$.",
+   "$p = \\frac{2}{3}\\mu E_đ$.",
+   "$p = 23\\mu E_đ$.",
+   "$p = \\mu E_đ$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_45",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Công thức liên hệ giữa động năng trung bình của các phân tử chất khí vào nhiệt độ là",
+  "explanation": "Động năng tịnh tiến trung bình của phân tử khí liên hệ với nhiệt độ tuyệt đối $T$ qua hệ thức $\\overline{E_đ} = \\frac{3}{2}kT$.",
+  "options": [
+   "$\\overline{E_đ} = \\frac{3}{2}kT$.",
+   "$\\overline{E_đ} = \\frac{1}{2}mv^2$.",
+   "$\\overline{E_đ} = \\frac{1}{2}RT$.",
+   "$\\overline{E_đ} = kT$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb12g_46",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Một khối khí có nhiệt độ $T$, động năng phân tử trung bình $E_đ$, $k = 1,38\\cdot 10^{-23}\\text{ J/K}$ là hằng số Boltzmann. Công thức nào sau đây là đúng để tính $E_đ$ theo mô hình động học phân tử khí?",
+  "explanation": "Theo thuyết động học phân tử chất khí, $E_đ = \\frac{3}{2}kT$.",
+  "options": [
+   "$E_đ = \\frac{2}{3}kT$.",
+   "$E_đ = \\frac{3}{2}kT$.",
+   "$E_đ = 32kT$.",
+   "$E_đ = kT$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb12g_47",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_5",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Sự biến thiên nhiệt độ của khối nước đá đựng trong ca nhôm theo nhiệt lượng cung cấp được cho trên đồ thị (từ $0$ đến $100\\text{ kJ}$ có $\\Delta t = 0^\\circ\\text{C}$; từ $100\\text{ kJ}$ đến $120\\text{ kJ}$ nhiệt độ tăng thêm $10^\\circ\\text{C}$).",
+  "explanation": "- Ý a) Đúng: Hệ nhận nhiệt lượng nên nội năng tăng.<br>- Ý b) Đúng: Từ $0$ đến $100\\text{ kJ}$, nhiệt độ không đổi ($\\Delta t = 0^\\circ\\text{C}$), đây là giai đoạn nước đá nóng chảy hoàn toàn cần $Q_1 = 100\\text{ kJ}$.<br>- Ý c) Sai: Nhiệt lượng chỉ riêng để nâng nhiệt độ nước sau khi nóng chảy lên $10^\\circ\\text{C}$ là $Q_2 = 120 - 100 = 20\\text{ kJ}$.<br>- Ý d) Đúng: Khi $Q < 100\\text{ kJ}$, nước đá đang nóng chảy nên nhiệt độ duy trì ở $0^\\circ\\text{C}$.",
+  "statements": [
+   "a) Quá trình trên thu nhiệt, làm nội năng của hệ tăng.",
+   "b) Cần nhiệt lượng $100\\text{ kJ}$ để có thể nung chảy hoàn toàn khối nước đá.",
+   "c) Cần nhiệt lượng $120\\text{ kJ}$ để nâng nhiệt độ của nước sau khi nóng chảy lên $10^\\circ\\text{C}$.",
+   "d) Khi truyền nhiệt cho khối nước đá trong ca nhôm chưa đạt đến $100\\text{ kJ}$ thì chưa làm thay đổi nhiệt độ của khối đá."
+  ],
+  "answers": [
+   true,
+   true,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb12g_48",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_4",
+  "qType": "theory",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Tiến hành đo nhiệt dung riêng của nước bằng bộ thí nghiệm như hình sau (gồm biến áp nguồn, oát kế, nhiệt kế điện tử, bình nhiệt lượng kế, cân điện tử).",
+  "explanation": "- Ý a) Đúng: Đây là các dụng cụ tiêu chuẩn dùng trong phương pháp cân bằng nhiệt/điện nhiệt.<br>- Ý b) Sai: Khối lượng nước được xác định chính xác bằng cân điện tử (bộ phận số 5), không đo qua vạch chia thể tích.<br>- Ý c) Đúng: Chọn dụng cụ có độ chia nhỏ nhất phù hợp và đo nhiều lần giúp giảm sai số.<br>- Ý d) Đúng: Nước có $c \\approx 4180\\text{ J/(kg.K)}$ rất lớn nên hấp thụ nhiệt tốt khi làm mát động cơ.",
+  "statements": [
+   "a) Các dụng cụ thông dụng ở phòng thí nghiệm có thể dùng để thực hiện thí nghiệm đo nhiệt dung riêng là: Nhiệt lượng kế, Cân, Nhiệt kế, Nước nóng, Đồng hồ điện tử.",
+   "b) Khi thực hiện thí nghiệm đo nhiệt dung riêng bằng bộ dụng cụ trên, khối lượng nước có thể xác định thông qua vạch chia trong bình chứa nước của nhiệt lượng kế.",
+   "c) Để khắc phục sai số của kết quả thí nghiệm, ta có thể làm giảm sai số dụng cụ.",
+   "d) Nước là chất có nhiệt dung riêng lớn hơn nhiều so với các chất lỏng thông thường khác. Cũng nhờ có nhiệt dung riêng lớn mà nước thường được dùng trong các thiết bị làm mát của động cơ nhiệt."
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ {
+  "id": "qb12g_49",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_5",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Sự biến thiên nhiệt độ của khối nước đá đựng trong ca nhôm theo nhiệt lượng cung cấp được cho trên đồ thị (giai đoạn 1 từ $0$ đến $100\\text{ kJ}$ nằm ngang; giai đoạn 2 từ $100$ đến $120\\text{ kJ}$ tăng lên $10^\\circ\\text{C}$).",
+  "explanation": "- Ý a) Sai: Hệ thu nhiệt và không sinh công đáng kể nên nội năng tăng ($\\Delta U = Q > 0$).<br>- Ý b) Đúng: Giai đoạn nóng chảy tiêu tốn $100\\text{ kJ}$.<br>- Ý c) Sai: Giai đoạn nâng nhiệt độ tiêu tốn $120 - 100 = 20\\text{ kJ}$.<br>- Ý d) Đúng: Tỉ số nhiệt lượng $\\frac{Q_{\\text{nóng chảy}}}{Q_{\\text{nâng nhiệt}}} = \\frac{100}{20} = 5$.",
+  "statements": [
+   "a) Quá trình trên thu nhiệt, nội năng của hệ không đổi.",
+   "b) Cần nhiệt lượng $100\\text{ kJ}$ để có thể nung chảy hoàn toàn khối nước đá.",
+   "c) Cần nhiệt lượng $120\\text{ kJ}$ để nâng nhiệt độ của nước sau khi nóng chảy lên $10^\\circ\\text{C}$.",
+   "d) Nhiệt lượng truyền trong giai đoạn đá nóng chảy bằng gấp 5 lần nhiệt lượng truyền trong giai đoạn nâng nhiệt."
+  ],
+  "answers": [
+   false,
+   true,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb12g_50",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_7",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 3,
+  "image": "",
+  "question": "Một công nhân thực hiện làm nóng chảy hoàn toàn lần lượt $5\\text{ kg}$ chì, $5\\text{ kg}$ đồng, $5\\text{ kg}$ sắt có nhiệt độ ban đầu $30^\\circ\\text{C}$, trong một lò nung điện công suất $2000\\text{ W}$. Biết chỉ có $60\\%$ năng lượng tiêu thụ của lò được dùng vào việc làm kim loại nóng lên và nóng chảy hoàn toàn ở nhiệt độ không đổi. Bảng số liệu: Sắt ($t_{\\text{nc}} = 1535^\\circ\\text{C}$, $\\lambda = 2,77\\cdot 10^5\\text{ J/kg}$, $c = 460\\text{ J/kg.K}$); Đồng ($t_{\\text{nc}} = 1084^\\circ\\text{C}$, $\\lambda = 1,80\\cdot 10^5\\text{ J/kg}$, $c = 380\\text{ J/kg.K}$); Chì ($t_{\\text{nc}} = 327^\\circ\\text{C}$, $\\lambda = 0,25\\cdot 10^5\\text{ J/kg}$, $c = 126\\text{ J/kg.K}$).",
+  "explanation": "- Ý a) Đúng: Chì có nhiệt độ nóng chảy thấp ($327^\\circ\\text{C}$), nhiệt dung riêng và nhiệt nóng chảy riêng nhỏ nên dễ nóng chảy để ngắt mạch.<br>- Ý b) Sai: Sắt có nhiệt độ nóng chảy cao nhất ($1535^\\circ\\text{C}$) và điện trở suất lớn hơn đồng/nhôm nên không dùng làm dây dẫn điện.<br>- Ý c) Đúng: $Q_{\\text{Cu}} = m c_{\\text{Cu}} \\Delta t + m \\lambda_{\\text{Cu}} = 5 \\cdot 380 \\cdot (1084 - 30) + 5 \\cdot 1,80\\cdot 10^5 = 2\\,902\\,600\\text{ J}$. Thời gian $t_{\\text{Cu}} = \\frac{Q_{\\text{Cu}}}{H \\cdot P} = \\frac{2\\,902\\,600}{0,6 \\cdot 2000} \\approx 2418,8\\text{ s} \\approx 2419\\text{ s}$.<br>- Ý d) Sai: $Q_{\\text{Fe}} = 5 \\cdot 460 \\cdot (1535 - 30) + 5 \\cdot 2,77\\cdot 10^5 = 4\\,846\\,500\\text{ J} \\Rightarrow t_{\\text{Fe}} \\approx 4038,8\\text{ s}$; $Q_{\\text{Pb}} = 5 \\cdot 126 \\cdot (327 - 30) + 5 \\cdot 0,25\\cdot 10^5 = 312\\,110\\text{ J} \\Rightarrow t_{\\text{Pb}} \\approx 260,1\\text{ s}$. Tổng thời gian $t = 2418,8 + 4038,8 + 260,1 = 6717,7\\text{ s} \\approx 1,87\\text{ giờ}$ (khác $1,43\\text{ giờ}$).",
+  "statements": [
+   "a) Chì được dùng làm dây ngắt mạch an toàn trong cầu chì/aptomat vì khi có đoản mạch điện, chì sẽ nóng chảy nhanh chóng để ngắt mạch.",
+   "b) Sắt dễ nâng nhiệt và nóng chảy nhất nên thường được dùng để làm dây dẫn điện.",
+   "c) Thời gian cần thiết để làm nóng chảy hoàn toàn $5\\text{ kg}$ đồng từ nhiệt độ ban đầu là $2419\\text{ s}$.",
+   "d) Tổng thời gian cần thiết để làm nóng chảy hoàn toàn $15\\text{ kg}$ sắt, đồng, chì từ nhiệt độ ban đầu là $1,43\\text{ giờ}$."
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   false
+  ]
+ },
+ {
+  "id": "qb12g_51",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_10",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một nhóm học sinh sử dụng bộ thí nghiệm (hình bên) để tìm hiểu về mối liên hệ giữa nhiệt độ và thể tích của một lượng khí xác định khi giữ áp suất của khí không đổi ($p = 1,2\\cdot 10^5\\text{ Pa}$). Kết quả đo 5 lần: Lần 1 ($297,5\\text{ K}; 30\\text{ mL}$), Lần 2 ($288,2\\text{ K}; 29\\text{ mL}$), Lần 3 ($313,2\\text{ K}; 32\\text{ mL}$), Lần 4 ($323,9\\text{ K}; 33\\text{ mL}$), Lần 5 ($314,5\\text{ K}; 32\\text{ mL}$).",
+  "explanation": "- Ý a) Sai: Thí nghiệm giữ áp suất không đổi là kiểm chứng định luật Charles (quá trình đẳng áp).<br>- Ý b) Sai: Giá trị trung bình $\\frac{V}{T} \\approx \\frac{30}{297,5} \\approx 0,101\\text{ mL/K}$ (không phải $0,512\\text{ mL/K}$).<br>- Ý c) Đúng: Điều chỉnh tay quay dịch chuyển pit-tông làm thay đổi thể tích để giữ số chỉ áp kế cố định ở $1,2\\cdot 10^5\\text{ Pa}$.<br>- Ý d) Sai: Thể tích tỉ lệ thuận với nhiệt độ tuyệt đối $T\\text{ (K)}$, không tỉ lệ thuận với nhiệt độ $t^\\circ\\text{C}$.",
+  "statements": [
+   "a) Thí nghiệm trên là thí nghiệm minh họa định luật Boyle.",
+   "b) Công thức liên hệ thể tích theo nhiệt độ Kelvin có giá trị trung bình là $\\frac{V}{T} = 0,512\\text{ mL/K}$.",
+   "c) Tay quay dùng để thay đổi thể tích của xi lanh để áp kế chỉ $1,2\\cdot 10^5\\text{ Pa}$.",
+   "d) Khi áp suất khối khí không đổi thì nhiệt độ $t^\\circ\\text{C}$ của khối khí tỉ lệ thuận với thể tích của nó."
+  ],
+  "answers": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ {
+  "id": "qb12g_52",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_10",
+  "qType": "theory",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một nhóm học sinh sử dụng bộ thí nghiệm như hình dưới để tìm hiểu về mối liên hệ giữa nhiệt độ và thể tích của một lượng khí xác định bị nhốt trong xi-lanh khi giữ áp suất của khí không đổi.",
+  "explanation": "- Ý a) Đúng: Định luật Charles khảo sát quá trình đẳng áp.<br>- Ý b) Đúng: Nước bao quanh xilanh truyền nhiệt cho khí bên trong.<br>- Ý c) Đúng: Trong quá trình đẳng áp, $T$ tăng thì $V$ tăng.<br>- Ý d) Sai: Đường đẳng áp kéo dài chỉ đi qua gốc tọa độ $O$ trong hệ tọa độ tuyệt đối $OTV$, còn trong hệ $OtV$ ($t$ tính theo $^\\circ\\text{C}$) đường thẳng cắt trục hoành tại $-273^\\circ\\text{C}$.",
+  "statements": [
+   "a) Mục đích của thí nghiệm là kiểm chứng định luật Charles.",
+   "b) Trong thí nghiệm trên, để thay đổi nhiệt độ khí trong xilanh người ta sẽ thay đổi nhiệt độ của nước bên ngoài xilanh.",
+   "c) Tăng nhiệt độ của nước, điều chỉnh pit-tông sao cho số chỉ áp kế không đổi thì thấy thể tích khí trong xilanh tăng.",
+   "d) Giữ cho áp suất khí trong xi lanh không thay đổi. Ghi lại các giá trị thể tích và nhiệt độ tương ứng rồi biểu diễn các giá trị này lên hệ trục toạ độ $OtV$ thì thấy đường nối các giá trị có phương đi qua gốc $O$."
+  ],
+  "answers": [
+   true,
+   true,
+   true,
+   false
+  ]
+ },
+ {
+  "id": "qb12g_53",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "exercise",
+  "format": "tf",
+  "level": 3,
+  "image": "",
+  "question": "Khi truyền nhiệt lượng $Q$ cho khối khí trong một xilanh hình trụ thì khí dãn nở đẩy pit-tông làm thể tích của khối khí tăng thêm $7,0\\text{ lít}$. Biết áp suất của khối khí là $3,0\\cdot 10^5\\text{ Pa}$ và không đổi trong quá trình khí dãn nở.",
+  "explanation": "- Ý a) Đúng: $1\\text{ Pa} = 1\\text{ N/m}^2$ nên $p = 3,0\\cdot 10^5\\text{ N/m}^2$.<br>- Ý b) Sai: Công khối khí thực hiện là $A' = p\\Delta V = 3,0\\cdot 10^5 \\cdot (7,0\\cdot 10^{-3}) = 2100\\text{ J} = 2,1\\cdot 10^3\\text{ J}$.<br>- Ý c) Đúng: Khí nhận nhiệt $Q > 0$ và dãn nở đẩy pit-tông sinh công.<br>- Ý d) Đúng: Theo nguyên lí I NĐLH: $\\Delta U = Q + A = Q - A' \\Rightarrow Q = \\Delta U + A' = 1100 + 2100 = 3200\\text{ J}$.",
+  "statements": [
+   "a) Áp suất khí lên pit-tông là $3,0\\cdot 10^5\\text{ N/m}^2$.",
+   "b) Công mà khối khí thực hiện là $2,0\\cdot 10^3\\text{ J}$.",
+   "c) Khối khí trên nhận nhiệt sinh công.",
+   "d) Nếu trong quá trình này nội năng của khối khí tăng $1100\\text{ J}$ thì $Q = 3200\\text{ J}$."
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ {
+  "id": "qb12g_54",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_2",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Người ta cung cấp một nhiệt lượng $28\\text{ J}$ cho chất khí đựng trong một xilanh đặt nằm ngang. Khí nở ra đẩy pittông di chuyển đều một đoạn $8\\text{ cm}$. Biết lực ma sát giữa pittông và xilanh có độ lớn $20\\text{ N}$. Độ biến thiên nội năng của khí bằng bao nhiêu J?",
+  "explanation": "Công của lực ma sát cản trở chuyển động của pit-tông có độ lớn $A' = F_{\\text{ms}} \\cdot s = 20 \\cdot 0,08 = 1,6\\text{ J}$. Vì khí nhận nhiệt $Q = 28\\text{ J}$ và thực hiện công $A = -1,6\\text{ J}$ nên $\\Delta U = Q + A = 28 - 1,6 = 26,4\\text{ J}$.",
+  "answer": "26,4"
+ },
+ {
+  "id": "qb12g_55",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_4",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Một chiếc cốc nhôm khối lượng $100\\text{ g}$ chứa $300\\text{ g}$ nước ở nhiệt độ $20^\\circ\\text{C}$. Người ta thả ngập vào cốc nước một chiếc thìa đồng khối lượng $75\\text{ g}$ vừa rút ra khỏi nồi nước sôi ở $100^\\circ\\text{C}$. Xác định nhiệt độ của nước trong cốc khi có sự cân bằng nhiệt (tính theo $^\\circ\\text{C}$, làm tròn đến hàng phần mười). Bỏ qua các hao phí nhiệt ra ngoài. Nhiệt dung riêng của nhôm là $880\\text{ J/kg.K}$, của đồng là $380\\text{ J/kg.K}$ và của nước là $4200\\text{ J/kg.K}$.",
+  "explanation": "Phương trình cân bằng nhiệt: $(m_{\\text{Al}}c_{\\text{Al}} + m_{\\text{H}_2\\text{O}}c_{\\text{H}_2\\text{O}})(t - 20) = m_{\\text{Cu}}c_{\\text{Cu}}(100 - t) \\Leftrightarrow (0,1\\cdot 880 + 0,3\\cdot 4200)(t - 20) = 0,075\\cdot 380(100 - t) \\Leftrightarrow 1348(t - 20) = 28,5(100 - t) \\Rightarrow t \\approx 21,6^\\circ\\text{C}$.",
+  "answer": "21,6"
+ },
+ {
+  "id": "qb12g_56",
+  "grade": "12",
+  "chapterId": "c12_1",
+  "lessonId": "l12_1_7",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Tính nhiệt lượng cần cung cấp cho $4\\text{ kg}$ cục nước đá ở $0^\\circ\\text{C}$ để chuyển nó thành nước ở $20^\\circ\\text{C}$. Nhiệt nóng chảy riêng của nước đá là $3,4\\cdot 10^5\\text{ J/kg}$ và nhiệt dung riêng của nước là $4180\\text{ J/(kg.K)}$. Kết quả tính theo kJ và làm tròn đến phần nguyên.",
+  "explanation": "$Q = m\\lambda + mc\\Delta t = 4 \\cdot 3,4\\cdot 10^5 + 4 \\cdot 4180 \\cdot 20 = 1\\,360\\,000 + 334\\,400 = 1\\,694\\,400\\text{ J} = 1694,4\\text{ kJ} \\approx 1694\\text{ kJ}$.",
+  "answer": "1694"
+ },
+ {
+  "id": "qb12g_57",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_9",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Nén đẳng nhiệt một khối khí từ thể tích ban đầu $9\\text{ lít}$ xuống còn $4\\text{ lít}$. Áp suất của khối khí sau khi nén tăng bao nhiêu lần so với ban đầu?",
+  "explanation": "Áp dụng định luật Boyle: $p_1V_1 = p_2V_2 \\Rightarrow \\frac{p_2}{p_1} = \\frac{V_1}{V_2} = \\frac{9}{4} = 2,25$.",
+  "answer": "2,25"
+ },
+ {
+  "id": "qb12g_58",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Một khí lí tưởng có thể tích $10\\text{ lít}$ ở $27^\\circ\\text{C}$, áp suất $1\\text{ atm}$, biến đổi qua hai quá trình: quá trình đẳng tích áp suất tăng gấp $2$ lần; rồi quá trình đẳng áp, thể tích sau cùng là $15\\text{ lít}$. Tính nhiệt độ sau cùng của khối khí (theo đơn vị Kelvin, K).",
+  "explanation": "Nhiệt độ ban đầu $T_1 = 27 + 273 = 300\\text{ K}$. Quá trình 1 (đẳng tích): $p_2 = 2p_1 \\Rightarrow T_2 = 2T_1 = 600\\text{ K}$. Quá trình 2 (đẳng áp): $\\frac{V_2}{T_2} = \\frac{V_3}{T_3} \\Rightarrow T_3 = T_2 \\cdot \\frac{V_3}{V_2} = 600 \\cdot \\frac{15}{10} = 900\\text{ K}$.",
+  "answer": "900"
+ },
+ {
+  "id": "qb12g_59",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Một khối khí ở nhiệt độ $t = 7^\\circ\\text{C}$, áp suất là $1\\text{ atm}$, $V = 10\\text{ lít}$ thực hiện 2 quá trình biến đổi liên tiếp: Quá trình 1: Đun nóng đẳng tích để nhiệt độ khí là $127^\\circ\\text{C}$; Quá trình 2: Giãn nở đẳng nhiệt để thể tích sau cùng là $20\\text{ lít}$. Tính áp suất sau cùng của khối khí (làm tròn đến 2 chữ số thập phân, đơn vị atm).",
+  "explanation": "$T_1 = 7 + 273 = 280\\text{ K}$; $T_2 = 127 + 273 = 400\\text{ K}$. Áp dụng phương trình trạng thái cho trạng thái đầu và cuối: $\\frac{p_1V_1}{T_1} = \\frac{p_3V_3}{T_3} \\Rightarrow p_3 = p_1 \\cdot \\frac{V_1}{V_3} \\cdot \\frac{T_3}{T_1} = 1 \\cdot \\frac{10}{20} \\cdot \\frac{400}{280} = \\frac{5}{7} \\approx 0,71\\text{ atm}$.",
+  "answer": "0,71"
+ },
+ {
+  "id": "qb12g_60",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Ở thời kì nén của một động cơ đốt trong 4 kì, nhiệt độ của hỗn hợp khí tăng từ $47^\\circ\\text{C}$ đến $367^\\circ\\text{C}$, còn thể tích của khí giảm từ $1,8\\text{ lít}$ đến $0,3\\text{ lít}$. Áp suất của khí lúc bắt đầu nén là $100\\text{ kPa}$. Coi hỗn hợp khí như chất khí thuần nhất, áp suất cuối thời kì nén là bao nhiêu kPa?",
+  "explanation": "$T_1 = 47 + 273 = 320\\text{ K}$; $T_2 = 367 + 273 = 640\\text{ K}$. Từ $\\frac{p_1V_1}{T_1} = \\frac{p_2V_2}{T_2} \\Rightarrow p_2 = p_1 \\cdot \\frac{V_1}{V_2} \\cdot \\frac{T_2}{T_1} = 100 \\cdot \\frac{1,8}{0,3} \\cdot \\frac{640}{320} = 100 \\cdot 6 \\cdot 2 = 1200\\text{ kPa}$.",
+  "answer": "1200"
+ },
+ {
+  "id": "qb12g_61",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_11",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Có $2\\text{ mol}$ khí Hydrogen ở nhiệt độ $27^\\circ\\text{C}$ và áp suất $2,5\\text{ atm}$. Cho $1\\text{ atm} = 1,013\\cdot 10^5\\text{ Pa}$, hằng số khí $R = 8,31\\text{ J/mol.K}$. Thể tích của khối khí có giá trị là bao nhiêu lít? (Kết quả làm tròn đến hàng đơn vị).",
+  "explanation": "$T = 27 + 273 = 300\\text{ K}$; $p = 2,5 \\cdot 1,013\\cdot 10^5 = 253\\,250\\text{ Pa}$. Từ $pV = nRT \\Rightarrow V = \\frac{2 \\cdot 8,31 \\cdot 300}{253\\,250} \\approx 0,01969\\text{ m}^3 = 19,69\\text{ lít} \\approx 20\\text{ lít}$.",
+  "answer": "20"
+ },
+ {
+  "id": "qb12g_62",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 4,
+  "image": "",
+  "question": "Một thùng có thể tích $40\\text{ dm}^3$ chứa $3,96\\text{ kg}$ khí cacbonic ($\\text{CO}_2$, $M = 44\\text{ g/mol}$), biết rằng bình sẽ bị nổ khi áp suất vượt quá $60\\text{ atm}$ ($1\\text{ atm} = 1,013\\cdot 10^5\\text{ Pa}$, $R = 8,31\\text{ J/mol.K}$). Hỏi bình bị nổ ở nhiệt độ bằng bao nhiêu $^\\circ\\text{C}$ (làm tròn đến hàng đơn vị)?",
+  "explanation": "Số mol khí $n = \\frac{3960}{44} = 90\\text{ mol}$; $V = 40\\text{ dm}^3 = 0,04\\text{ m}^3$; $p = 60 \\cdot 1,013\\cdot 10^5 = 6\\,078\\,000\\text{ Pa}$. Nhiệt độ tuyệt đối $T = \\frac{pV}{nR} = \\frac{6\\,078\\,000 \\cdot 0,04}{90 \\cdot 8,31} \\approx 325,07\\text{ K} \\Rightarrow t = 325,07 - 273 = 52,07^\\circ\\text{C} \\approx 52^\\circ\\text{C}$.",
+  "answer": "52"
+ },
+ {
+  "id": "qb12g_63",
+  "grade": "12",
+  "chapterId": "c12_2",
+  "lessonId": "l12_2_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 4,
+  "image": "",
+  "question": "Làm thí nghiệm người ta thấy bình chứa $1\\text{ kg}$ khí nitrogen bị nổ ở nhiệt độ $300^\\circ\\text{C}$. Tính khối lượng khí hydrogen (tính theo gam, làm tròn đến hàng phần mười) có thể chứa trong bình cùng loại nếu nhiệt độ tối đa bị nổ là $80^\\circ\\text{C}$ và hệ số an toàn là $5$, nghĩa là áp suất tối đa chỉ bằng $1/5$ áp suất gây nổ. Cho khối lượng mol phân tử của nitrogen là $28\\text{ g/mol}$, của hydrogen là $2\\text{ g/mol}$; $R = 8,31\\text{ J/mol.K}$.",
+  "explanation": "Áp suất gây nổ $p_{\\text{nổ}} = \\frac{m_{\\text{N}_2}}{M_{\\text{N}_2}} \\frac{RT_1}{V}$. Với khí $\\text{H}_2$ ở $T_2 = 80 + 273 = 353\\text{ K}$ và $p_{\\text{H}_2} = \\frac{1}{5}p_{\\text{nổ}}$, ta có $\\frac{m_{\\text{H}_2}}{M_{\\text{H}_2}} T_2 = \\frac{1}{5} \\frac{m_{\\text{N}_2}}{M_{\\text{N}_2}} T_1 \\Rightarrow m_{\\text{H}_2} = \\frac{1}{5} \\cdot 1000 \\cdot \\frac{2}{28} \\cdot \\frac{573}{353} \\approx 23,19\\text{ g} \\approx 23,2\\text{ g}$.",
+  "answer": "23,2"
+ }
+]

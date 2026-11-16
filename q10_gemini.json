@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "qb10g_01",
+  "grade": "10",
+  "chapterId": "c10_1",
+  "lessonId": "l10_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Sai số tuyệt đối trung bình của $n$ lần đo đại lượng vật lí $A$ được tính theo công thức",
+  "explanation": "Sai số tuyệt đối trung bình (sai số ngẫu nhiên) của $n$ lần đo là trung bình cộng các sai số tuyệt đối của từng lần đo: $\\overline{\\Delta A} = \\frac{\\Delta A_1 + \\Delta A_2 + \\dots + \\Delta A_n}{n}$.",
+  "options": [
+   "$A = \\overline{A} \\pm \\Delta A$.",
+   "$\\delta A = \\frac{\\Delta A}{\\overline{A}} \\cdot 100\\%$.",
+   "$A = \\frac{A_1 + A_2 + \\dots + A_n}{n}$.",
+   "$\\overline{\\Delta A} = \\frac{\\Delta A_1 + \\Delta A_2 + \\dots + \\Delta A_n}{n}$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_02",
+  "grade": "10",
+  "chapterId": "c10_1",
+  "lessonId": "l10_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Gọi $\\overline{A}$ là giá trị trung bình, $\\Delta A'$ là sai số dụng cụ, $\\overline{\\Delta A}$ là sai số ngẫu nhiên, $\\Delta A$ là sai số tuyệt đối. Sai số tỉ đối của phép đo là",
+  "explanation": "Sai số tỉ đối được tính bằng tỉ số giữa sai số tuyệt đối $\\Delta A$ và giá trị trung bình $\\overline{A}$ tính theo phần trăm: $\\delta A = \\frac{\\Delta A}{\\overline{A}} \\cdot 100\\%$.",
+  "options": [
+   "$\\delta A = \\frac{\\overline{\\Delta A}}{\\overline{A}} \\cdot 100\\%$.",
+   "$\\delta A = \\frac{\\Delta A'}{\\overline{A}} \\cdot 100\\%$.",
+   "$\\delta A = \\frac{\\overline{A}}{\\Delta A} \\cdot 100\\%$.",
+   "$\\delta A = \\frac{\\Delta A}{\\overline{A}} \\cdot 100\\%$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_03",
+  "grade": "10",
+  "chapterId": "c10_1",
+  "lessonId": "l10_1_3",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Đường kính của một sợi dây đo bởi thước panme trong 5 lần đo bằng $2,620\\text{ cm}$; $2,625\\text{ cm}$; $2,630\\text{ cm}$; $2,628\\text{ cm}$ và $2,626\\text{ cm}$. Bỏ qua sai số dụng cụ. Sai số tỉ đối bằng",
+  "explanation": "Giá trị trung bình: $\\overline{d} = \\frac{2,620 + 2,625 + 2,630 + 2,628 + 2,626}{5} = 2,6258\\text{ cm}$. Sai số tuyệt đối trung bình: $\\overline{\\Delta d} = \\frac{0,0058 + 0,0008 + 0,0042 + 0,0022 + 0,0002}{5} = 0,00264\\text{ cm}$. Sai số tỉ đối: $\\delta d = \\frac{0,00264}{2,6258} \\cdot 100\\% \\approx 0,1\\%$.",
+  "options": [
+   "$0,1\\%$.",
+   "$0,2\\%$.",
+   "$0,3\\%$.",
+   "$0,4\\%$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_04",
+  "grade": "10",
+  "chapterId": "c10_1",
+  "lessonId": "l10_1_3",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Khi đo $n$ lần cùng một đại lượng $A$, ta nhận được các giá trị $A_1, A_2, \\dots, A_n$. Giá trị trung bình của $A$ là $\\overline{A}$. Sai số tuyệt đối ứng với lần đo thứ $n$ được tính bằng công thức",
+  "explanation": "Sai số tuyệt đối của lần đo thứ $n$ là trị tuyệt đối của hiệu giữa giá trị trung bình và giá trị đo lần thứ $n$: $\\Delta A_n = |\\overline{A} - A_n|$.",
+  "options": [
+   "$\\Delta A_n = |\\overline{A} - A_n|$.",
+   "$\\Delta A_n = \\frac{|\\overline{A} - A_n|}{2}$.",
+   "$\\Delta A_n = \\frac{|\\overline{A} + A_n|}{2}$.",
+   "$\\Delta A_n = |\\overline{A} + A_n|$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_05",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Độ dịch chuyển và quãng đường đi được của vật có độ lớn bằng nhau khi vật",
+  "explanation": "Khi vật chuyển động thẳng và không đổi chiều, quỹ đạo là đoạn thẳng nối điểm đầu và điểm cuối nên độ lớn độ dịch chuyển bằng quãng đường đi được ($d = s$).",
+  "options": [
+   "chuyển động tròn.",
+   "chuyển động thẳng và không đổi chiều.",
+   "chuyển động thẳng và chỉ đổi chiều 1 lần.",
+   "chuyển động thẳng và chỉ đổi chiều 2 lần."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_06",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Phát biểu nào là sai khi nói về độ dịch chuyển?",
+  "explanation": "Độ dịch chuyển là một đại lượng vectơ nên cho biết cả độ dài và hướng của sự thay đổi vị trí. Phát biểu B sai.",
+  "options": [
+   "Độ dịch chuyển và quãng đường đi được có thể bằng nhau trong trường hợp đặc biệt.",
+   "Độ dịch chuyển chỉ cho biết độ dài, không cho biết hướng của sự thay đổi vị trí.",
+   "Độ dịch chuyển được biểu diễn bằng một mũi tên nối vị trí đầu và vị trí cuối của chuyển động, có độ dài tỉ lệ với độ lớn của độ dịch chuyển.",
+   "Độ dịch chuyển là một đại lượng vectơ."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_07",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một xe máy đi từ điểm $P$ đến $Q$ đến $R$ và cuối cùng đến $S$ theo một đường tròn bán kính $r = 5\\text{ km}$ như hình vẽ ($P, Q, R, S$ là 4 đỉnh chia đường tròn thành 4 phần bằng nhau theo chiều kim đồng hồ). Độ dịch chuyển của chiếc xe máy có độ lớn bằng",
+  "explanation": "Điểm đầu là $P$, điểm cuối là $S$. Góc ở tâm $\\widehat{POS} = 90^\\circ$ với $OP = OS = r = 5\\text{ km}$. Độ lớn độ dịch chuyển là độ dài đoạn $PS = \\sqrt{r^2 + r^2} = 5\\sqrt{2}\\text{ km}$.",
+  "options": [
+   "$5\\pi\\text{ km}$.",
+   "$5\\sqrt{2}\\text{ km}$.",
+   "$10\\pi\\text{ km}$.",
+   "$0\\text{ km}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_08",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Bạn Hùng đi bộ đến quán tạp hóa để mua đồ dùng cá nhân. Từ nhà, Hùng đi bộ $1\\text{ km}$ về phía Đông, sau đó $1\\text{ km}$ về phía Nam và sau đó $1\\text{ km}$ về phía Đông một lần nữa. Chọn phát biểu đúng?",
+  "explanation": "Tổng quãng đường: $s = 1 + 1 + 1 = 3\\text{ km}$. Tổng độ dịch chuyển gồm $2\\text{ km}$ về hướng Đông và $1\\text{ km}$ về hướng Nam vuông góc nhau: $d = \\sqrt{2^2 + 1^2} = \\sqrt{5} \\approx 2,24\\text{ km}$, hướng Đông Nam.",
+  "options": [
+   "Quãng đường đi được của Hùng là $1\\text{ km}$.",
+   "Độ dịch chuyển của Hùng là $2,24\\text{ km}$, có hướng Đông Nam.",
+   "Độ dịch chuyển của Hùng là $3\\text{ km}$, có hướng Đông Nam.",
+   "Quãng đường đi được của Hùng là $2,24\\text{ km}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_09",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Hình vẽ mô tả độ dịch chuyển của 4 vật với tỉ xích $1\\text{ cm}$ ứng với $100\\text{ m}$ (trong đó $\\vec{d}_1$ hướng lên dài $2\\text{ cm}$, $\\vec{d}_2$ hướng lên bên phải góc $45^\\circ$ dài $2\\text{ cm}$, $\\vec{d}_3$ hướng xuống dài $3\\text{ cm}$, $\\vec{d}_4$ hướng sang phải dài $1\\text{ cm}$). Chọn câu đúng?",
+  "explanation": "Theo quy ước bản đồ (trên: Bắc, dưới: Nam, phải: Đông, trái: Tây) và tỉ xích $1\\text{ cm} = 100\\text{ m}$: Vật 1 đi $200\\text{ m}$ hướng Bắc; Vật 2 đi $200\\text{ m}$ hướng Đông – Bắc; Vật 3 đi $300\\text{ m}$ hướng Nam; Vật 4 đi $100\\text{ m}$ hướng Tây (mũi tên hướng sang trái).",
+  "options": [
+   "Vật 1 đi $200\\text{ m}$ theo hướng Nam.",
+   "Vật 2 đi $200\\text{ m}$ theo hướng Đông – Bắc.",
+   "Vật 3 đi $30\\text{ m}$ theo hướng Đông.",
+   "Vật 4 đi $100\\text{ m}$ theo hướng Đông."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_10",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 3,
+  "image": "",
+  "question": "Một người chuyển động $30\\text{ m}$ theo hướng Nam - Bắc từ $A$ đến $B$, sau đó đi $20\\text{ m}$ theo hướng Đông đến địa điểm $C$ và cuối cùng là $30\\sqrt{2}\\text{ m}$ theo hướng Tây Nam một góc $45^\\circ$ so với hướng Tây đến điểm $D$. Vectơ độ dịch chuyển có độ lớn bằng",
+  "explanation": "Chọn hệ trục $Oxy$ tại $A$ với $Ox$ hướng Đông, $Oy$ hướng Bắc. Tọa độ điểm $D$: $x_D = 0 + 20 - 30\\sqrt{2}\\cos 45^\\circ = 20 - 30 = -10\\text{ m}$; $y_D = 30 + 0 - 30\\sqrt{2}\\sin 45^\\circ = 30 - 30 = 0\\text{ m}$. Vậy điểm cuối $D$ nằm cách $A$ một đoạn $10\\text{ m}$ về phía Tây (hướng Đông - Tây).",
+  "options": [
+   "$10\\text{ m}$ và có hướng Nam - Bắc.",
+   "$10\\text{ m}$ và có hướng Bắc - Nam.",
+   "$10\\text{ m}$ và có hướng Đông - Tây.",
+   "$10\\text{ m}$ và có hướng Tây - Đông."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb10g_11",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Trên đồ thị độ dịch chuyển – thời gian $(d - t)$ của một ô tô chuyển động thẳng gồm 4 giai đoạn: đoạn 1 nằm ngang, đoạn 2 dốc lên nhiều nhất, đoạn 3 dốc lên ít hơn đoạn 2, đoạn 4 nằm ngang. Ô tô đi với tốc độ lớn nhất trong đoạn đường nào?",
+  "explanation": "Trên đồ thị $(d - t)$, độ dốc (hệ số góc $\\tan\\alpha = \\frac{\\Delta d}{\\Delta t}$) biểu thị độ lớn vận tốc. Đoạn 2 có độ dốc lớn nhất nên ô tô đi với tốc độ lớn nhất ở đoạn 2.",
+  "options": [
+   "$1$.",
+   "$2$.",
+   "$3$.",
+   "$4$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_12",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Trên đồ thị độ dịch chuyển – thời gian $(d - t)$ của một ô tô chuyển động thẳng gồm 4 giai đoạn: đoạn 1 nằm ngang, đoạn 2 dốc lên nhiều nhất, đoạn 3 dốc lên ít hơn đoạn 2, đoạn 4 nằm ngang. Ô tô đi với tốc độ nhỏ nhất trong đoạn đường nào?",
+  "explanation": "Ở đoạn 1 và đoạn 4, đồ thị là đường thẳng nằm ngang nên độ dịch chuyển không đổi, tốc độ của ô tô bằng $0$ (nhỏ nhất).",
+  "options": [
+   "$1, 4$.",
+   "$2, 3$.",
+   "$3$.",
+   "$2$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_13",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Đồ thị độ dịch chuyển theo thời gian $(d - t)$ trong chuyển động thẳng của hai xe xuất phát từ gốc tọa độ có đường biểu diễn của xe 1 dốc hơn đường biểu diễn của xe 2. Khẳng định nào sau đây là đúng?",
+  "explanation": "Đường biểu diễn của xe 1 có độ dốc lớn hơn xe 2 nên vận tốc xe 1 lớn hơn vận tốc xe 2.",
+  "options": [
+   "Vận tốc xe 1 nhỏ hơn xe 2.",
+   "Vận tốc hai xe bằng nhau.",
+   "Không đủ dữ liệu để so sánh vận tốc 2 xe.",
+   "Vận tốc xe 1 lớn hơn xe 2."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_14",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Cho đồ thị độ dịch chuyển – thời gian $(d - t)$ của một vật: từ $0$ đến $t_1$ là đoạn thẳng dốc lên, từ $t_1$ đến $t_2$ là đoạn thẳng nằm ngang, từ $t_2$ đến $t_3$ là đoạn thẳng dốc xuống về $0$. Trong những khoảng thời gian nào, vật chuyển động thẳng đều?",
+  "explanation": "Vật chuyển động thẳng đều khi đồ thị $(d - t)$ là đoạn thẳng xiên góc (độ dịch chuyển thay đổi đều theo thời gian), tương ứng từ $0$ đến $t_1$ (đi theo chiều dương) và từ $t_2$ đến $t_3$ (quay về theo chiều âm). Từ $t_1$ đến $t_2$ vật đứng yên.",
+  "options": [
+   "Trong khoảng thời gian từ $0$ đến $t_1$ và từ $t_1$ đến $t_2$.",
+   "Trong khoảng thời gian từ $t_1$ đến $t_2$.",
+   "Trong khoảng thời gian từ $0$ đến $t_3$.",
+   "Trong khoảng thời gian từ $0$ đến $t_1$ và từ $t_2$ đến $t_3$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_15",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Vận tốc trung bình là đại lượng được đo bởi",
+  "explanation": "Vận tốc trung bình được xác định bằng thương số giữa độ dịch chuyển và khoảng thời gian thực hiện độ dịch chuyển đó: $\\vec{v}_{tb} = \\frac{\\vec{d}}{t}$.",
+  "options": [
+   "Thương số của quãng đường đi được và khoảng thời gian đi hết quãng đường.",
+   "Thương số của độ dịch chuyển và thời gian dịch chuyển.",
+   "Tích của độ dịch chuyển và thời gian dịch chuyển.",
+   "Tích của quãng đường đi được và thời gian dịch chuyển."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_16",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một người đi từ nhà phải đi theo hướng Bắc $10\\text{ km}$ đến ngã tư rẽ phải đi thêm $10\\text{ km}$ thì đến nơi làm việc. Chỉ còn $15\\text{ phút}$ nữa từ lúc bắt đầu xuất phát thì đến giờ làm việc, để không bị muộn giờ làm, người đó cần đi với tốc độ trung bình khoảng",
+  "explanation": "Tổng quãng đường đi được: $s = 10 + 10 = 20\\text{ km}$. Thời gian: $t = 15\\text{ phút} = 0,25\\text{ h}$. Tốc độ trung bình cần thiết: $v_{tb} = \\frac{s}{t} = \\frac{20}{0,25} = 80\\text{ km/h}$.",
+  "options": [
+   "$100\\text{ km/h}$.",
+   "$40\\text{ km/h}$.",
+   "$60\\text{ km/h}$.",
+   "$80\\text{ km/h}$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_17",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Đồ thị $(d - t)$ mô tả một người đang bơi trong một bể bơi dài $60\\text{ m}$: trong $25\\text{ s}$ đầu độ dịch chuyển tăng đều từ $0$ đến $60\\text{ m}$; từ $25\\text{ s}$ đến $40\\text{ s}$ giữ nguyên ở $60\\text{ m}$; trong $25\\text{ s}$ cuối (từ $40\\text{ s}$ đến $65\\text{ s}$) độ dịch chuyển giảm đều từ $60\\text{ m}$ xuống $35\\text{ m}$ (tức giảm $20\\text{ m}$ trong $20\\text{ s}$ cuối từ $45\\text{ s}$ đến $65\\text{ s}$). Vận tốc trung bình của người đó bơi trong $25\\text{ giây}$ đầu và trong $20\\text{ giây}$ cuối là",
+  "explanation": "Trong $25\\text{ s}$ đầu: $v_1 = \\frac{60 - 0}{25} = 2,4\\text{ m/s}$. Trong $20\\text{ s}$ cuối (từ $t = 45\\text{ s}$ có $d = 55\\text{ m}$ đến $t = 65\\text{ s}$ có $d = 35\\text{ m}$): $v_2 = \\frac{35 - 55}{65 - 45} = \\frac{-20}{20} = -1\\text{ m/s}$.",
+  "options": [
+   "$2,4\\text{ m/s}$; $-1\\text{ m/s}$.",
+   "$2,4\\text{ m/s}$; $1\\text{ m/s}$.",
+   "$2,5\\text{ m/s}$; $3\\text{ m/s}$.",
+   "$2,4\\text{ m/s}$; $2\\text{ m/s}$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_18",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một thuyền buồm chạy ngược dòng sông, sau $1\\text{ h}$ đi được $10\\text{ km}$. Một khúc gỗ trôi theo dòng sông, sau $1\\text{ phút}$ trôi được $\\frac{100}{3}\\text{ m}$. Vận tốc của thuyền buồm so với nước là",
+  "explanation": "Vận tốc của nước so với bờ bằng vận tốc khúc gỗ: $v_{n/b} = \\frac{100/3\\text{ m}}{60\\text{ s}} = \\frac{5}{9}\\text{ m/s} = 2\\text{ km/h}$. Vận tốc thuyền ngược dòng so với bờ: $v_{t/b} = \\frac{10}{1} = 10\\text{ km/h}$. Vì thuyền đi ngược dòng nên $v_{t/b} = v_{t/n} - v_{n/b} \\Rightarrow v_{t/n} = 10 + 2 = 12\\text{ km/h}$.",
+  "options": [
+   "$8\\text{ km/h}$.",
+   "$10\\text{ km/h}$.",
+   "$12\\text{ km/h}$.",
+   "$15\\text{ km/h}$."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb10g_19",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một phi công muốn máy bay của mình bay về hướng Tây trong khi gió thổi về hướng Nam với vận tốc $50\\text{ km/h}$. Biết rằng khi không có gió, vận tốc của máy bay là $200\\text{ km/h}$. Phi công đó phải lái máy bay theo hướng",
+  "explanation": "Ta có $\\vec{v}_{\\text{máy bay/đất}} = \\vec{v}_{\\text{máy bay/gió}} + \\vec{v}_{\\text{gió/đất}}$. Để vận tốc tổng hợp hướng thẳng về phía Tây trong khi gió đẩy về phía Nam, mũi máy bay phải hướng chếch lên phía Bắc so với hướng Tây, tức là hướng Tây Bắc.",
+  "options": [
+   "Tây Nam.",
+   "Tây Bắc.",
+   "Đông Nam.",
+   "Đông Bắc."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_20",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_8",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Trong 4 đồ thị vận tốc – thời gian $(v - t)$: Hình (I) dốc lên nhẹ, Hình (II) dốc xuống mạnh (góc nghiêng lớn nhất), Hình (III) dốc lên nhẹ, Hình (IV) dốc xuống mạnh. Đồ thị vận tốc – thời gian nào mô tả chuyển động có độ lớn của gia tốc là lớn nhất?",
+  "explanation": "Độ lớn gia tốc $|a| = |\\tan\\alpha|$ tỉ lệ với độ dốc của đồ thị $(v - t)$. Hình (II) (và hình IV giống hệt trong đề gốc) có đường biểu diễn dốc đứng nhất nên độ lớn gia tốc lớn nhất.",
+  "options": [
+   "Hình (I).",
+   "Hình (II).",
+   "Hình (III).",
+   "Hình (IV)."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_21",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_8",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Trong 4 đồ thị vận tốc – thời gian $(v - t)$: Hình (I) và (III) có đường biểu diễn dốc lên ($a > 0$), Hình (II) và (IV) có đường biểu diễn dốc xuống ($a < 0$). Đồ thị vận tốc – thời gian nào sau đây mô tả chuyển động có gia tốc là lớn nhất?",
+  "explanation": "Giá trị đại số của gia tốc $a > 0$ khi đồ thị $(v - t)$ hướng lên (Hình I và III giống nhau) và $a < 0$ khi đồ thị hướng xuống (Hình II và IV). Do đó giá trị gia tốc lớn nhất ứng với Hình (I).",
+  "options": [
+   "Hình (I).",
+   "Hình (II).",
+   "Hình (III).",
+   "Hình (IV)."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_22",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một ô tô đang chuyển động thẳng đều với tốc độ $5\\text{ m/s}$ thì bắt đầu tăng tốc, chuyển động thẳng nhanh dần đều với gia tốc $1\\text{ m/s}^2$. Quãng đường ô tô đi được sau $10\\text{ s}$ kể từ lúc bắt đầu tăng tốc là",
+  "explanation": "Quãng đường ô tô đi được: $s = v_0 t + \\frac{1}{2}at^2 = 5 \\cdot 10 + \\frac{1}{2} \\cdot 1 \\cdot 10^2 = 50 + 50 = 100\\text{ m}$.",
+  "options": [
+   "$50\\text{ m}$.",
+   "$100\\text{ m}$.",
+   "$75\\text{ m}$.",
+   "$150\\text{ m}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_23",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một xe đang chuyển động với vận tốc $36\\text{ km/h}$ thì hãm phanh và chuyển động thẳng chậm dần đều và đi được $50\\text{ m}$ thì xe dừng hẳn. Nếu chọn chiều dương là chiều chuyển động của xe thì gia tốc của xe là",
+  "explanation": "Đổi $v_0 = 36\\text{ km/h} = 10\\text{ m/s}$, khi dừng hẳn $v = 0$. Áp dụng công thức $v^2 - v_0^2 = 2as \\Rightarrow 0^2 - 10^2 = 2 \\cdot a \\cdot 50 \\Rightarrow a = -1\\text{ m/s}^2$.",
+  "options": [
+   "$-2,5\\text{ m/s}^2$.",
+   "$2\\text{ m/s}^2$.",
+   "$-1\\text{ m/s}^2$.",
+   "$1\\text{ m/s}^2$."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb10g_24",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Thả một vật rơi tự do từ độ cao $h$ tại nơi có gia tốc rơi tự do là $g$. Thời gian từ lúc rơi đến khi chạm đất là",
+  "explanation": "Từ công thức quãng đường rơi tự do $h = \\frac{1}{2}gt^2 \\Rightarrow t = \\sqrt{\\frac{2h}{g}}$.",
+  "options": [
+   "$t = \\frac{2g}{h}$.",
+   "$t = \\sqrt{\\frac{2h}{g}}$.",
+   "$t = \\sqrt{hg}$.",
+   "$t = \\sqrt{2gh}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_25",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 3,
+  "image": "",
+  "question": "Thả một vật rơi tự do từ độ cao $h$ tại nơi có gia tốc rơi tự do là $g$. Thời gian từ lúc rơi đến khi chạm đất là $t$. Quãng đường vật rơi trong $n$ giây cuối là (với $n < t$)",
+  "explanation": "Quãng đường rơi trong $n$ giây cuối bằng hiệu quãng đường rơi trong $t$ giây và $(t - n)$ giây: $\\Delta s = \\frac{1}{2}gt^2 - \\frac{1}{2}g(t - n)^2 = \\frac{1}{2}g(2tn - n^2) = g \\cdot n\\left(t - \\frac{1}{2}n\\right)$.",
+  "options": [
+   "$\\Delta s = g \\cdot n\\left(t - \\frac{1}{2}n\\right)$.",
+   "$\\Delta s = g \\cdot n^2\\left(t - \\frac{1}{2}\\right)$.",
+   "$\\Delta s = g \\cdot n^2\\left(t - \\frac{1}{2}n\\right)$.",
+   "$\\Delta s = g \\cdot n\\left(t - \\frac{1}{2}\\right)$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_26",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Thả một vật rơi tự do từ độ cao $h$ tại nơi có gia tốc rơi tự do là $g$. Thời gian từ lúc rơi đến khi chạm đất là $t$. Quãng đường vật rơi trong giây thứ $n$ là",
+  "explanation": "Quãng đường rơi trong giây thứ $n$: $\\Delta s = s_n - s_{n-1} = \\frac{1}{2}gn^2 - \\frac{1}{2}g(n - 1)^2 = \\frac{1}{2}g(2n - 1) = g\\left(n - \\frac{1}{2}\\right)$.",
+  "options": [
+   "$\\Delta s = g \\cdot \\left(n - \\frac{1}{2}\\right)$.",
+   "$\\Delta s = g \\cdot n\\left(n - \\frac{1}{2}\\right)$.",
+   "$\\Delta s = \\frac{1}{2}g \\cdot n(n - 1)$.",
+   "$\\Delta s = g \\cdot (n - 1)$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_27",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một hòn đá được thả rơi tự do từ một độ cao nào đó. Nếu độ cao tăng lên $3$ lần thì thời gian rơi sẽ",
+  "explanation": "Vì $t = \\sqrt{\\frac{2h}{g}}$ nên $t$ tỉ lệ thuận với $\\sqrt{h}$. Khi $h$ tăng $3$ lần thì thời gian rơi $t$ tăng $\\sqrt{3}$ lần.",
+  "options": [
+   "tăng $2\\sqrt{3}$ lần.",
+   "tăng $3$ lần.",
+   "tăng $4$ lần.",
+   "tăng $\\sqrt{3}$ lần."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_28",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Đặc điểm nào dưới đây không phải là đặc điểm của vật chuyển động rơi tự do?",
+  "explanation": "Gia tốc rơi tự do $g$ thay đổi theo vĩ độ địa lí và độ cao so với mặt đất. Phát biểu D sai.",
+  "options": [
+   "Chuyển động theo phương thẳng đứng, chiều từ trên xuống dưới.",
+   "Chuyển động thẳng nhanh dần đều, không vận tốc đầu.",
+   "Tại một nơi nhất định và ở gần mặt đất, mọi vật rơi tự do với cùng một gia tốc $g$.",
+   "Gia tốc rơi tự do không đổi ở mọi nơi trên Trái Đất."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_29",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một vật rơi tự do từ trên cao xuống đất trong thời gian $4\\text{ s}$. Bỏ qua sức cản không khí. Lấy $g = 10\\text{ m/s}^2$. Độ cao nơi vật rơi là",
+  "explanation": "Độ cao nơi thả vật: $h = \\frac{1}{2}gt^2 = \\frac{1}{2} \\cdot 10 \\cdot 4^2 = 80\\text{ m}$.",
+  "options": [
+   "$80\\text{ m}$.",
+   "$40\\text{ m}$.",
+   "$20\\text{ m}$.",
+   "$160\\text{ m}$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_30",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Một vật chuyển động với vận tốc đầu $v_0$, gia tốc của chuyển động là $a$. Công thức tính độ dịch chuyển sau thời gian $t$ trong chuyển động thẳng biến đổi đều là",
+  "explanation": "Công thức tính độ dịch chuyển trong chuyển động thẳng biến đổi đều là $d = v_0 t + \\frac{1}{2}at^2$.",
+  "options": [
+   "$d = v_0 t + \\frac{1}{2}at^2$.",
+   "$d = v_0 t + at^2$.",
+   "$d = v_0 t + at$.",
+   "$d = v_0 t + \\frac{1}{2}at$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_31",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_8",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Chọn câu sai. Chất điểm chuyển động theo một chiều với gia tốc $a = 2\\text{ m/s}^2$ có nghĩa là",
+  "explanation": "Áp dụng $v = v_0 + at$: nếu $v_0 = 2\\text{ m/s}$ thì sau $2\\text{ s}$, $v = 2 + 2 \\cdot 2 = 6\\text{ m/s} \\neq 10\\text{ m/s}$. Vậy câu B sai.",
+  "options": [
+   "lúc đầu vận tốc bằng $1\\text{ m/s}$ thì sau $2\\text{ s}$ vận tốc của nó bằng $5\\text{ m/s}$.",
+   "lúc đầu vận tốc bằng $2\\text{ m/s}$ thì sau $2\\text{ s}$ vận tốc của nó bằng $10\\text{ m/s}$.",
+   "lúc đầu vận tốc bằng $2\\text{ m/s}$ thì sau $3\\text{ s}$ vận tốc của nó bằng $8\\text{ m/s}$.",
+   "lúc đầu vận tốc bằng $0\\text{ m/s}$ thì sau $1\\text{ s}$ vận tốc của nó bằng $2\\text{ m/s}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_32",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Câu nào sau đây không đúng?",
+  "explanation": "Trong chuyển động thẳng nhanh dần đều, vectơ gia tốc $\\vec{a}$ luôn cùng phương, cùng chiều với vectơ vận tốc $\\vec{v}$. Phát biểu D sai.",
+  "options": [
+   "Gia tốc là một đại lượng vectơ, đặc trưng cho sự thay đổi nhanh hay chậm của vận tốc.",
+   "Trong chuyển động chậm dần đều, tích vận tốc và gia tốc của vật luôn âm.",
+   "Trong chuyển động nhanh dần đều, tích vận tốc và gia tốc của vật luôn dương.",
+   "Trong chuyển động thẳng nhanh dần đều thì vectơ gia tốc ngược chiều với vectơ vận tốc."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_33",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Công thức liên hệ giữa độ dịch chuyển, vận tốc và gia tốc của chuyển động thẳng nhanh dần đều là",
+  "explanation": "Công thức độc lập với thời gian trong chuyển động thẳng biến đổi đều là $v^2 - v_0^2 = 2ad$.",
+  "options": [
+   "$v^2 - v_0^2 = ad$.",
+   "$v^2 - v_0^2 = 2ad$.",
+   "$v - v_0 = ad$.",
+   "$v_0^2 - v^2 = 2ad$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_34",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Gia tốc của chuyển động thẳng nhanh dần đều",
+  "explanation": "Trong chuyển động thẳng biến đổi đều, vectơ gia tốc $\\vec{a}$ là hằng số (có phương, chiều và độ lớn không đổi).",
+  "options": [
+   "có phương, chiều và độ lớn không đổi.",
+   "tăng đều theo thời gian.",
+   "bao giờ cũng lớn hơn gia tốc của chuyển động chậm dần đều.",
+   "chỉ có độ lớn không đổi."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_35",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nhận xét nào sau đây là đúng khi nói về một vật chuyển động thẳng chậm dần đều?",
+  "explanation": "Chuyển động thẳng chậm dần đều có $a \\cdot v < 0$, tức là gia tốc luôn ngược dấu (và ngược chiều) với vận tốc.",
+  "options": [
+   "Gia tốc có giá trị tăng đều theo thời gian.",
+   "Gia tốc có giá trị giảm đều theo thời gian.",
+   "Gia tốc có giá trị ngược dấu với vận tốc.",
+   "Gia tốc cùng chiều với vận tốc."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb10g_36",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Chuyển động của vật nào dưới đây có thể coi là chuyển động rơi tự do?",
+  "explanation": "Viên bi sắt nặng và gọn nên lực cản không khí rất nhỏ so với trọng lực, có thể bỏ qua và coi như rơi tự do.",
+  "options": [
+   "Một vận động viên nhảy dù đang rơi khi dù đã mở.",
+   "Một viên bi sắt đang rơi.",
+   "Một chiếc thang máy đang chuyển động đi xuống.",
+   "Một chiếc lá đang rơi."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_37",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một vật được thả rơi tự do từ độ cao $4,9\\text{ m}$ xuống đất. Bỏ qua lực cản của không khí. Lấy gia tốc rơi tự do $g = 9,8\\text{ m/s}^2$. Vận tốc của vật trước khi chạm đất bằng",
+  "explanation": "Vận tốc chạm đất: $v = \\sqrt{2gh} = \\sqrt{2 \\cdot 9,8 \\cdot 4,9} = 9,8\\text{ m/s}$.",
+  "options": [
+   "$4,9\\text{ m/s}$.",
+   "$9,8\\text{ m/s}$.",
+   "$98\\text{ m/s}$.",
+   "$6,9\\text{ m/s}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_38",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Nếu từ cùng một độ cao đồng thời ném các vật khác nhau theo phương ngang với vận tốc khác nhau thì vật nào có vận tốc ném lớn hơn sẽ có tầm bay xa",
+  "explanation": "Từ cùng độ cao $h$, các vật có cùng thời gian rơi $t = \\sqrt{\\frac{2h}{g}}$. Tầm bay xa $L = v_0 t$ nên vật nào có $v_0$ lớn hơn sẽ có tầm bay xa lớn hơn.",
+  "options": [
+   "lớn hơn.",
+   "nhỏ hơn.",
+   "bằng nhau.",
+   "còn phụ thuộc vào khối lượng của các vật."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_39",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Viên bi A có khối lượng gấp đôi viên bi B. Tại cùng một độ cao, đồng thời thả rơi viên bi A và ném viên bi B theo phương ngang. Nếu bỏ qua sức cản không khí thì",
+  "explanation": "Chuyển động thẳng đứng của cả hai bi đều là rơi tự do từ cùng độ cao $h$ nên chạm đất cùng lúc ($t = \\sqrt{2h/g}$). Khi chạm đất, bi A có tốc độ $v_A = gt$, còn bi B có tốc độ $v_B = \\sqrt{v_0^2 + (gt)^2} > v_A$.",
+  "options": [
+   "Bi A chạm đất trước và tốc độ ngay trước khi chạm đất của hai bi bằng nhau.",
+   "Bi B chạm đất trước và tốc độ ngay trước khi chạm đất của hai bi bằng nhau.",
+   "Hai viên bi chạm đất cùng lúc và tốc độ ngay trước khi chạm đất của bi A lớn hơn.",
+   "Hai viên bi chạm đất cùng lúc và tốc độ ngay trước khi chạm đất của bi B lớn hơn."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_40",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một máy bay bay ngang với tốc độ $150\\text{ m/s}$, ở độ cao $490\\text{ m}$ thì thả một gói hàng xuống đất. Lấy $g = 9,8\\text{ m/s}^2$. Tầm xa của gói hàng là",
+  "explanation": "Thời gian rơi: $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 490}{9,8}} = 10\\text{ s}$. Tầm xa: $L = v_0 t = 150 \\cdot 10 = 1500\\text{ m}$.",
+  "options": [
+   "$1000\\text{ m}$.",
+   "$500\\text{ m}$.",
+   "$1500\\text{ m}$.",
+   "$100\\text{ m}$."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "qb10g_41",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Khi ném một vật theo phương ngang (bỏ qua sức cản của không khí), thời gian chuyển động của vật phụ thuộc vào",
+  "explanation": "Thời gian chuyển động của vật ném ngang là $t = \\sqrt{\\frac{2h}{g}}$, chỉ phụ thuộc vào độ cao $h$ và gia tốc rơi tự do $g$.",
+  "options": [
+   "vận tốc ném.",
+   "độ cao từ chỗ ném đến mặt đất.",
+   "khối lượng của vật.",
+   "thời điểm ném."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_42",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Một vật được ném theo phương ngang với vận tốc ban đầu là $v_0 = 30\\text{ m/s}$ từ một độ cao $h = 80\\text{ m}$ so với mặt đất. Lấy $g = 10\\text{ m/s}^2$. Bỏ qua sức cản của không khí. Thời gian rơi và tầm xa của vật là",
+  "explanation": "Thời gian rơi: $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 80}{10}} = 4\\text{ s}$. Tầm xa: $L = v_0 t = 30 \\cdot 4 = 120\\text{ m}$.",
+  "options": [
+   "$2\\text{ s}$; $120\\text{ m}$.",
+   "$4\\text{ s}$; $120\\text{ m}$.",
+   "$8\\text{ s}$; $240\\text{ m}$.",
+   "$2,8\\text{ s}$; $84\\text{ m}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_43",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_14",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Vật nào sau đây chuyển động theo quán tính?",
+  "explanation": "Theo định luật I Newton, nếu một vật đang chuyển động mà tất cả các lực tác dụng vào nó bỗng nhiên ngừng tác dụng thì vật tiếp tục chuyển động thẳng đều theo quán tính.",
+  "options": [
+   "Vật chuyển động tròn đều.",
+   "Vật chuyển động trên một đường thẳng.",
+   "Vật rơi tự do từ trên cao xuống không ma sát.",
+   "Vật tiếp tục chuyển động thẳng đều khi tất cả các lực tác dụng lên vật mất đi."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_44",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_14",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Tính chất bảo toàn trạng thái đứng yên hay chuyển động của vật gọi là",
+  "explanation": "Quán tính là tính chất của mọi vật có xu hướng bảo toàn vận tốc cả về hướng và độ lớn (bảo toàn trạng thái đứng yên hay chuyển động thẳng đều).",
+  "options": [
+   "tính biến dạng nén của vật.",
+   "tính biến dạng kéo của vật.",
+   "tính đàn hồi của vật.",
+   "tính quán tính của vật."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_45",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_14",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Một vật đang chuyển động với vận tốc $3\\text{ m/s}$. Nếu bỗng nhiên các lực tác dụng lên nó mất đi thì",
+  "explanation": "Theo định luật I Newton, khi hợp lực bằng $0$, vật giữ nguyên vận tốc $3\\text{ m/s}$ và tiếp tục chuyển động thẳng đều theo hướng cũ.",
+  "options": [
+   "vật dừng lại ngay.",
+   "vật đổi hướng chuyển động.",
+   "vật chuyển động chậm dần rồi mới dừng lại.",
+   "vật tiếp tục chuyển động theo hướng cũ với vận tốc $3\\text{ m/s}$."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_46",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_14",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Khi một xe buýt tăng tốc đột ngột thì các hành khách",
+  "explanation": "Do quán tính, khi xe tăng tốc đột ngột về phía trước, phần thân trên của hành khách chưa kịp thay đổi vận tốc nên bị ngả người về phía sau.",
+  "options": [
+   "dừng lại ngay.",
+   "ngả người về phía sau.",
+   "chúi người về phía trước.",
+   "ngả người sang bên cạnh."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_47",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "theory",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Hai lực $\\vec{F}_1, \\vec{F}_2$ có giá đồng quy cùng tác dụng lên một vật. Hình vẽ biểu diễn đúng hợp lực $\\vec{F}$ của hai lực ấy theo quy tắc hình bình hành (vectơ $\\vec{F}$ là đường chéo xuất phát từ điểm đồng quy của $\\vec{F}_1$ và $\\vec{F}_2$) là",
+  "explanation": "Theo quy tắc hình bình hành, hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$ được biểu diễn bằng đường chéo của hình bình hành có hai cạnh là $\\vec{F}_1$ và $\\vec{F}_2$, xuất phát từ điểm đồng quy (Hình 4).",
+  "options": [
+   "Hình 1 (vectơ $\\vec{F}$ là cạnh bên).",
+   "Hình 2 (vectơ $\\vec{F}$ là đường chéo nối ngọn $\\vec{F}_1, \\vec{F}_2$).",
+   "Hình 3 (vectơ $\\vec{F}$ là cạnh bên).",
+   "Hình 4 (vectơ $\\vec{F}$ là đường chéo hình bình hành xuất phát từ gốc chung)."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "qb10g_48",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Hai lực có giá đồng quy có độ lớn là $3\\text{ N}$ và $4\\text{ N}$ và có phương vuông góc với nhau. Hợp lực của hai lực này có độ lớn là",
+  "explanation": "Vì $\\vec{F}_1 \\perp \\vec{F}_2$ nên $F = \\sqrt{F_1^2 + F_2^2} = \\sqrt{3^2 + 4^2} = 5\\text{ N}$.",
+  "options": [
+   "$7\\text{ N}$.",
+   "$5\\text{ N}$.",
+   "$1\\text{ N}$.",
+   "$12\\text{ N}$."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "qb10g_49",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 1,
+  "image": "",
+  "question": "Hai lực $\\vec{F}_1$ và $\\vec{F}_2$ cùng phương, cùng chiều tác dụng vào một vật. Độ lớn của hai lực là $F_1 = 40\\text{ N}$ và $F_2 = 30\\text{ N}$. Độ lớn hợp lực của hai lực nói trên là",
+  "explanation": "Hai lực cùng phương, cùng chiều: $F = F_1 + F_2 = 40 + 30 = 70\\text{ N}$.",
+  "options": [
+   "$70\\text{ N}$.",
+   "$10\\text{ N}$.",
+   "$35\\text{ N}$.",
+   "$50\\text{ N}$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_50",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "mcq",
+  "level": 2,
+  "image": "",
+  "question": "Hai lực $\\vec{F}_1$ và $\\vec{F}_2$ cùng tác dụng vào một vật. Biết rằng $\\vec{F}_1$ có độ lớn $5\\text{ N}$, $\\vec{F}_2$ có độ lớn $3\\text{ N}$, hai lực ngược chiều nhau. Hợp lực của hai lực nói trên",
+  "explanation": "Hai lực ngược chiều có $F_1 > F_2$ nên hợp lực cùng chiều với $\\vec{F}_1$ và có độ lớn $F = F_1 - F_2 = 5 - 3 = 2\\text{ N}$.",
+  "options": [
+   "cùng chiều $\\vec{F}_1$ và có độ lớn $2\\text{ N}$.",
+   "ngược chiều $\\vec{F}_1$ và có độ lớn $2\\text{ N}$.",
+   "ngược chiều $\\vec{F}_1$ và có độ lớn $8\\text{ N}$.",
+   "cùng chiều $\\vec{F}_2$ và có độ lớn $2\\text{ N}$."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "qb10g_51",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một vật chuyển động thẳng có đồ thị $(d - t)$ được mô tả như Hình 4.11: từ $t = 0$ đến $t = 2\\text{ s}$, đồ thị là đoạn thẳng đi qua điểm $A(1\\text{ s}; 2\\text{ m})$ lên đến $(2\\text{ s}; 4\\text{ m})$; từ $t = 2\\text{ s}$ đến $t = 3\\text{ s}$ nằm ngang tại $d = 4\\text{ m}$ (chứa điểm $B$); từ $t = 3\\text{ s}$ đến $t = 4\\text{ s}$ đi thẳng xuống điểm $(4\\text{ s}; 2\\text{ m})$ (chứa điểm $C$). Xét các nhận định sau:",
+  "explanation": "a) Đúng, đồ thị là đoạn thẳng dốc lên. b) Sai, tốc độ tại A là $v_A = \\frac{4 - 0}{2 - 0} = 2\\text{ m/s}$. c) Đúng, đồ thị nằm ngang từ $2\\text{ s}$ đến $3\\text{ s}$ nên vật đứng yên. d) Sai, tại C vật chuyển động thẳng đều ngược chiều dương với vận tốc $v_C = \\frac{2 - 4}{4 - 3} = -2\\text{ m/s}$ (không phải chậm dần đều).",
+  "statements": [
+   "a) Tại A, vật chuyển động thẳng đều, cùng chiều dương",
+   "b) Tốc độ tức thời ở vị trí A là $1\\text{ m/s}$",
+   "c) Tại vị trí B, vật không chuyển động",
+   "d) Tại vị trí C, vật chuyển động thẳng chậm dần đều với tốc độ tức thời là $2\\text{ m/s}$"
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   false
+  ]
+ },
+ {
+  "id": "qb10g_52",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "theory",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Hình vẽ mô tả đồ thị tọa độ – thời gian $(x - t)$ của hai chiếc xe trong cùng một khoảng thời gian: đường (1) xuất phát từ gốc $O$ dốc lên nhẹ; đường (2) xuất phát từ tọa độ dương trên trục tung dốc xuống mạnh về trục hoành. Xét các nhận định sau:",
+  "explanation": "a) Đúng, hai đường thẳng có độ dốc trái dấu nên chuyển động thẳng đều ngược chiều. b) Sai, độ biến thiên tọa độ của xe 2 lớn hơn nên quãng đường xe 2 đi được lớn hơn. c) Đúng, độ dốc của xe 2 lớn hơn xe 1 nên tốc độ của xe 2 lớn hơn. d) Đúng, vận tốc đại số của xe 1 dương ($v_1 > 0$), còn của xe 2 âm ($v_2 < 0$) nên $v_1 > v_2$.",
+  "statements": [
+   "a) Hai xe chuyển động thẳng đều, ngược chiều nhau",
+   "b) Với cùng một khoảng thời gian, xe 1 đi được quãng đường lớn hơn xe 2",
+   "c) Tốc độ tức thời của xe 2 lớn hơn xe 1",
+   "d) Xe 1 có vận tốc tức thời lớn hơn xe 2"
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_53",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Đồ thị độ dịch chuyển – thời gian của một người đang bơi trong một bể bơi dài $50\\text{ m}$: từ $0$ đến $25\\text{ s}$ độ dịch chuyển tăng đều từ $0$ lên $50\\text{ m}$; từ $25\\text{ s}$ đến $35\\text{ s}$ giữ nguyên tại $50\\text{ m}$; từ $35\\text{ s}$ đến $60\\text{ s}$ giảm đều từ $50\\text{ m}$ về $25\\text{ m}$. Xét các phát biểu sau:",
+  "explanation": "a) Đúng, vận tốc thay đổi qua từng giai đoạn. b) Sai, trong $25\\text{ s}$ đầu bơi được $50\\text{ m}$ nên mỗi giây bơi được $\\frac{50}{25} = 2\\text{ m}$. c) Sai, từ $25\\text{ s}$ đến $35\\text{ s}$ đồ thị nằm ngang nên người đó đứng yên (bơi được $0\\text{ m}$). d) Đúng, từ $35\\text{ s}$ đến $60\\text{ s}$ (25 giây cuối) vận tốc không đổi bằng $v = \\frac{25 - 50}{60 - 35} = -1\\text{ m/s}$ (lưu ý đề gốc ghi thiếu dấu trừ).",
+  "statements": [
+   "a) Từ đồ thị ta thấy người này chuyển động không đều",
+   "b) Trong 25 giây đầu mỗi giây người đó bơi được $20\\text{ m}$",
+   "c) Từ giây 25 đến giây 35 người đó bơi được $50\\text{ m}$",
+   "d) Trong 20 giây cuối cùng, vận tốc bơi của người đó là $-1\\text{ m/s}$"
+  ],
+  "answers": [
+   true,
+   false,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_54",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_7",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một vật có đồ thị độ dịch chuyển – thời gian $(d - t)$: từ $0$ đến $10\\text{ s}$ tăng đều từ $0$ lên $40\\text{ m}$; từ $10\\text{ s}$ đến $40\\text{ s}$ giữ nguyên ở $40\\text{ m}$; từ $40\\text{ s}$ đến $60\\text{ s}$ giảm đều từ $40\\text{ m}$ về $0$. Xét các nhận xét sau:",
+  "explanation": "a) Đúng, giai đoạn $10\\text{ s} - 40\\text{ s}$ đồ thị nằm ngang nên vật đứng yên. b) Đúng, giai đoạn $40\\text{ s} - 60\\text{ s}$ vật chuyển động thẳng đều với vận tốc $v = \\frac{0 - 40}{60 - 40} = -2\\text{ m/s}$. c) Sai, tại $t = 60\\text{ s}$ vật quay về vị trí xuất phát nên độ dịch chuyển $d = 0$ (quãng đường mới là $80\\text{ m}$). d) Sai, vận tốc trung bình $v_{tb} = \\frac{d}{t} = \\frac{0}{60} = 0$ (tốc độ trung bình mới là $\\frac{80}{60} = \\frac{4}{3}\\text{ m/s}$).",
+  "statements": [
+   "a) Từ giây thứ 20 đến giây thứ 30, vật đứng yên",
+   "b) Vận tốc của vật tại giây thứ 50 là $-2\\text{ m/s}$",
+   "c) Sau 60 giây vật có độ dịch chuyển là $80\\text{ m}$",
+   "d) Vận tốc trung bình của vật trong $60\\text{ s}$ là $\\frac{4}{3}\\text{ m/s}$"
+  ],
+  "answers": [
+   true,
+   true,
+   false,
+   false
+  ]
+ },
+ {
+  "id": "qb10g_55",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 3,
+  "image": "",
+  "question": "Một người lái xe ô tô đang đi trên đường thẳng nằm ngang thì nhìn thấy phía trước có chướng ngại vật và hãm phanh cho đến khi ô tô dừng lại. Vận tốc ban đầu của ô tô là $20\\text{ m/s}$. Thời gian phản ứng của người lái xe là $0,50\\text{ s}$. Đồ thị $(v - t)$ biểu diễn xe đi đều với $v = 20\\text{ m/s}$ từ $0$ đến $0,5\\text{ s}$, sau đó giảm thẳng về $0$ tại $t = 4\\text{ s}$. Xét các nhận định sau:",
+  "explanation": "a) Đúng, đồ thị nằm ngang tại $v = 20\\text{ m/s}$. b) Sai, vận tốc vẫn dương ($v > 0$) nên xe vẫn đi theo chiều dương (chậm dần đều). c) Sai, gia tốc khi hãm phanh: $a = \\frac{0 - 20}{4 - 0,5} = -\\frac{40}{7} \\approx -5,71\\text{ m/s}^2$. d) Đúng, quãng đường bằng diện tích hình thang dưới đồ thị: $s = \\frac{(0,5 + 4) \\cdot 20}{2} = 45\\text{ m}$.",
+  "statements": [
+   "a) Trong thời gian phản ứng (từ $0$ đến $0,50\\text{ s}$), xe ô tô chuyển động thẳng đều",
+   "b) Sau $0,50\\text{ s}$, xe chuyển động theo chiều âm",
+   "c) Gia tốc của ô tô trong thời gian hãm phanh là $-5,0\\text{ m/s}^2$",
+   "d) Quãng đường ô tô đi được từ lúc người lái xe nhìn thấy chướng ngại vật đến khi xe dừng lại là $45\\text{ m}$"
+  ],
+  "answers": [
+   true,
+   false,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_56",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_8",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một ô tô chuyển động thẳng, tăng tốc từ trạng thái nghỉ tới tốc độ $28,0\\text{ m/s}$. Bảng số liệu vận tốc theo thời gian: tại $t = 0; 2,0; 4,0; 6; 8; 10\\text{ (s)}$, tốc độ tương ứng là $0; 5,6; 11,2; 16,8; 22,4; 28,0\\text{ (m/s)}$. Xét các nhận định sau:",
+  "explanation": "a) Đúng, sau mỗi $2\\text{ s}$ tốc độ tăng đều một lượng $5,6\\text{ m/s}$. b) Đúng, $a = \\frac{28,0 - 0}{10} = 2,8\\text{ m/s}^2$. c) Sai, quãng đường $s = \\frac{1}{2}at^2 = \\frac{1}{2} \\cdot 2,8 \\cdot 10^2 = 140\\text{ m}$. d) Đúng, tại $t = 9\\text{ s}$: $v = 2,8 \\cdot 9 = 25,2\\text{ m/s}$.",
+  "statements": [
+   "a) Xe ô tô chuyển động thẳng nhanh dần đều trong khoảng thời gian $10\\text{ s}$",
+   "b) Gia tốc của ô tô trong thời gian $10\\text{ s}$ có độ lớn là $2,8\\text{ m/s}^2$",
+   "c) Quãng đường ô tô đi được trong thời gian $10\\text{ s}$ là $200\\text{ m}$",
+   "d) Tốc độ của ô tô tại thời điểm $9\\text{ s}$ là $25,2\\text{ m/s}$"
+  ],
+  "answers": [
+   true,
+   true,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_57",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một thang máy bắt đầu đi lên từ tầng 1. Đồ thị vận tốc – thời gian $(v - t)$ của thang máy có dạng hình thang: từ $0$ đến $3\\text{ s}$ vận tốc tăng đều từ $0$ lên $4\\text{ m/s}$; từ $3\\text{ s}$ đến $15\\text{ s}$ giữ nguyên ở $4\\text{ m/s}$; từ $15\\text{ s}$ đến $18\\text{ s}$ giảm đều từ $4\\text{ m/s}$ về $0$. Xét các nhận định sau:",
+  "explanation": "a) Đúng, vận tốc tăng đều từ $0$ lên $4\\text{ m/s}$. b) Sai, giai đoạn thẳng đều kéo dài $15 - 3 = 12\\text{ s}$, quãng đường $s_2 = 4 \\cdot 12 = 48\\text{ m}$. c) Sai, gia tốc giai đoạn cuối $a = \\frac{0 - 4}{18 - 15} = -\\frac{4}{3}\\text{ m/s}^2$. d) Đúng, tổng độ cao bằng diện tích hình thang: $h = \\frac{(12 + 18) \\cdot 4}{2} = 60\\text{ m}$.",
+  "statements": [
+   "a) Trong $3\\text{ s}$ đầu tiên, thang máy chuyển động thẳng nhanh dần đều",
+   "b) Quãng đường thang máy đi được trong giai đoạn chuyển động thẳng đều là $60\\text{ m}$",
+   "c) Gia tốc của thang máy trong giai đoạn chuyển động thẳng chậm dần đều là $-4,0\\text{ m/s}^2$",
+   "d) Độ cao mà thang máy lên được kể từ lúc xuất phát tới khi dừng lại là $60\\text{ m}$"
+  ],
+  "answers": [
+   true,
+   false,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_58",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Thả một vật nhỏ rơi trên phương thẳng đứng từ độ cao $500\\text{ m}$ so với mặt đất. Bỏ qua mọi sức cản. Cho gia tốc rơi tự do không thay đổi theo độ cao và có giá trị $g = 10\\text{ m/s}^2$. Xét các nhận định sau:",
+  "explanation": "a) Đúng, rơi tự do là chuyển động thẳng nhanh dần đều. b) Sai, sau $5\\text{ s}$ tốc độ $v = gt = 10 \\cdot 5 = 50\\text{ m/s}$. c) Đúng, thời gian rơi $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 500}{10}} = 10\\text{ s}$. d) Đúng, quãng đường rơi trong giây thứ 10 là $\\Delta s = h - \\frac{1}{2}g \\cdot 9^2 = 500 - 405 = 95\\text{ m}$.",
+  "statements": [
+   "a) Trong quá trình rơi, chuyển động rơi của vật là chuyển động thẳng nhanh dần đều",
+   "b) Sau $5\\text{ s}$ chuyển động thì tốc độ của vật là $40\\text{ m/s}$",
+   "c) Thời gian vật rơi là $10\\text{ s}$",
+   "d) Quãng đường vật đi được trong giây cuối cùng trước khi chạm đất là $95\\text{ m}$"
+  ],
+  "answers": [
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_59",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một vật rơi tự do từ độ cao $80\\text{ m}$ xuống đất, lấy $g = 10\\text{ m/s}^2$. Xét các nhận định sau:",
+  "explanation": "a) Sai, $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 80}{10}} = 4\\text{ s}$. b) Đúng, $v = gt = 10 \\cdot 4 = 40\\text{ m/s}$. c) Sai, vật rơi tự do nên vận tốc ban đầu $v_0 = 0$. d) Đúng, $s_2 = \\frac{1}{2} \\cdot 10 \\cdot 2^2 = 20\\text{ m}$.",
+  "statements": [
+   "a) Thời gian để vật rơi chạm đất là $3\\text{ s}$",
+   "b) Vận tốc lúc vừa chạm đất của vật là $40\\text{ m/s}$",
+   "c) Vận tốc ban đầu của vật là $10\\text{ m/s}$",
+   "d) Quãng đường vật rơi được trong $2\\text{ s}$ đầu tiên là $20\\text{ m}$"
+  ],
+  "answers": [
+   false,
+   true,
+   false,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_60",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một vật nhỏ đồng thời chịu tác dụng của hai lực $\\vec{F}_1, \\vec{F}_2$, độ lớn các lực thành phần là $F_1 = 16\\text{ N}$ và $F_2 = 12\\text{ N}$. Gọi $\\vec{F}$ là hợp lực tác dụng lên vật. Xét các nhận định sau:",
+  "explanation": "a) Đúng theo định nghĩa hợp lực. b) Sai, cùng chiều thì $F = 16 + 12 = 28\\text{ N}$. c) Sai, ngược chiều thì $F = 16 - 12 = 4\\text{ N}$. d) Sai, $F = \\sqrt{16^2 + 12^2} = 20,0\\text{ N}$ nhưng góc hợp với $\\vec{F}_1$ là $\\tan\\alpha = \\frac{12}{16} = 0,75 \\Rightarrow \\alpha \\approx 36,9^\\circ$ (không phải $56,6^\\circ$).",
+  "statements": [
+   "a) Lực $\\vec{F}$ có tác dụng giống hệt như khi có lực $\\vec{F}_1, \\vec{F}_2$ đồng thời tác dụng lên vật",
+   "b) Nếu hai lực $\\vec{F}_1, \\vec{F}_2$ cùng giá và cùng chiều thì hợp lực $\\vec{F}$ có độ lớn bằng $4\\text{ N}$",
+   "c) Nếu hai lực $\\vec{F}_1, \\vec{F}_2$ cùng giá và ngược chiều thì hợp lực $\\vec{F}$ cùng hướng với lực $\\vec{F}_1$ và có độ lớn bằng $28\\text{ N}$",
+   "d) Nếu hai lực $\\vec{F}_1, \\vec{F}_2$ có giá vuông góc với nhau thì $\\vec{F}$ có độ lớn là $20,0\\text{ N}$ và có hướng hợp với $\\vec{F}_1$ góc $36,9^\\circ$ (nếu đề ghi $56,6^\\circ$ là Sai)"
+  ],
+  "answers": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ {
+  "id": "qb10g_61",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Một ô tô chịu một lực kéo $F_1 = 600\\text{ N}$ hướng về phía trước và một lực cản $F_2 = 400\\text{ N}$ hướng về phía sau. Xét các nhận định sau:",
+  "explanation": "a) Đúng, hai lực cùng phương (dọc theo phương chuyển động) và ngược chiều. b) Sai, hai lực ngược chiều nên $F = |F_1 - F_2|$. c) Sai, $F = 600 - 400 = 200\\text{ N}$. d) Sai, vì $F_1 > F_2$ nên hợp lực hướng theo $\\vec{F}_1$ (về phía trước).",
+  "statements": [
+   "a) $\\vec{F}_1$ và $\\vec{F}_2$ là hai lực cùng giá, ngược chiều",
+   "b) Hợp lực có độ lớn $F = F_1 + F_2$",
+   "c) Hợp lực tác dụng lên ô tô có độ lớn $100\\text{ N}$",
+   "d) Hợp lực có chiều hướng về phía sau"
+  ],
+  "answers": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ {
+  "id": "qb10g_62",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "mixed",
+  "format": "tf",
+  "level": 2,
+  "image": "",
+  "question": "Cho hai lực đồng quy có độ lớn $F_1 = F_2 = 20\\text{ N}$ hợp với nhau góc $\\alpha$. Xét các nhận định sau về độ lớn hợp lực $F$:",
+  "explanation": "a) Sai, $\\alpha = 0^\\circ$ là cùng chiều nên $F = F_1 + F_2 = 40\\text{ N}$. b) Sai, $\\alpha = 180^\\circ$ là ngược chiều nên $F = |F_1 - F_2| = 0\\text{ N}$. c) Đúng, $F = \\sqrt{20^2 + 20^2} = 20\\sqrt{2}\\text{ N}$. d) Đúng, $F = 2 \\cdot 20 \\cdot \\cos 30^\\circ = 20\\sqrt{3} \\approx 34,64\\text{ N}$.",
+  "statements": [
+   "a) Khi $\\alpha = 0^\\circ$ thì $F = F_1 - F_2 = 0\\text{ N}$",
+   "b) Khi $\\alpha = 180^\\circ$ thì $F = F_1 + F_2 = 40\\text{ N}$",
+   "c) Khi $\\alpha = 90^\\circ$ thì $F = \\sqrt{F_1^2 + F_2^2} = 20\\sqrt{2}\\text{ N}$",
+   "d) Khi $\\alpha = 60^\\circ$ mà $F_1 = F_2$ thì $F = 2F_1\\cos\\frac{\\alpha}{2} \\approx 34,64\\text{ N}$"
+  ],
+  "answers": [
+   false,
+   false,
+   true,
+   true
+  ]
+ },
+ {
+  "id": "qb10g_63",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một ô tô chuyển động thẳng trên một con đường từ điểm $A$ đến điểm $B$ đến điểm $C$ đến điểm $D$ rồi sau đó quay về điểm $C$ (các điểm $A, B, C, D$ thẳng hàng theo thứ tự và cách đều nhau). Biết quãng đường $AD$ dài $27,9\\text{ km}$. Độ lớn độ dịch chuyển của ô tô trong cả chuyến đi bằng bao nhiêu $\\text{km}$?",
+  "explanation": "Đoạn $AD$ được chia làm 3 phần bằng nhau: $AB = BC = CD = \\frac{27,9}{3} = 9,3\\text{ km}$. Điểm đầu là $A$, điểm cuối là $C$ nên độ lớn độ dịch chuyển là $d = AC = 2 \\cdot 9,3 = 18,6\\text{ km}$.",
+  "answer": "18,6"
+ },
+ {
+  "id": "qb10g_64",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một người lái ô tô đi thẳng $9\\text{ km}$ theo hướng Đông, sau đó rẽ trái đi thẳng theo hướng Bắc $4\\text{ km}$ rồi quay sang hướng Tây đi thẳng $5\\text{ km}$. Độ lớn độ dịch chuyển của ô tô bằng bao nhiêu $\\text{km}$ (làm tròn đến 2 chữ số thập phân)?",
+  "explanation": "Độ dịch chuyển theo phương Đông – Tây: $d_x = 9 - 5 = 4\\text{ km}$ (hướng Đông). Độ dịch chuyển theo phương Bắc – Nam: $d_y = 4\\text{ km}$ (hướng Bắc). Độ lớn độ dịch chuyển tổng hợp: $d = \\sqrt{4^2 + 4^2} = 4\\sqrt{2} \\approx 5,66\\text{ km}$.",
+  "answer": "5,66"
+ },
+ {
+  "id": "qb10g_65",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một người bơi dọc bể bơi dài $50\\text{ m}$. Bơi từ đầu bể đến cuối bể hết $19\\text{ giây}$ rồi bơi tiếp từ cuối bể quay về đầu bể hết $21\\text{ giây}$. Tốc độ trung bình của người này khi bơi cả đi lẫn về bằng bao nhiêu $\\text{m/s}$?",
+  "explanation": "Tổng quãng đường cả đi lẫn về: $s = 50 + 50 = 100\\text{ m}$. Tổng thời gian: $t = 19 + 21 = 40\\text{ s}$. Tốc độ trung bình: $v_{tb} = \\frac{s}{t} = \\frac{100}{40} = 2,5\\text{ m/s}$ (lưu ý: vận tốc trung bình cả đi lẫn về bằng $0$).",
+  "answer": "2,5"
+ },
+ {
+  "id": "qb10g_66",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_4",
+  "qType": "exercise",
+  "format": "short",
+  "level": 4,
+  "image": "",
+  "question": "Hai cầu thủ Công Minh và Văn Đức đứng tại vị trí $C$ và $V$ trước một bức tường thẳng đứng. Công Minh đứng cách tường $CA = 20\\text{ m}$, Văn Đức đứng cách tường $VB = 10\\text{ m}$, với $AB = 30\\text{ m}$ ($A, B$ là hình chiếu của $C, V$ lên tường). Công Minh đá quả bóng lăn trên sân chạm tường tại $I$ rồi phản xạ đến chỗ Văn Đức (góc tới bằng góc phản xạ). Quãng đường bóng lăn từ Công Minh đến chân Văn Đức bằng bao nhiêu mét (làm tròn đến hàng phần mười)?",
+  "explanation": "Lấy điểm $V'$ đối xứng với $V$ qua bức tường, khi đó $BV' = BV = 10\\text{ m}$ và quãng đường bóng lăn $s = CI + IV = CI + IV' = CV'$. Tam giác vuông tạo bởi $C$ và $V'$ có hai cạnh góc vuông là $AB = 30\\text{ m}$ và $(CA + BV') = 20 + 10 = 30\\text{ m}$. Vậy góc tạo bởi phương chuyển động và bức tường là $45^\\circ$, và quãng đường bóng lăn là $s = \\sqrt{30^2 + 30^2} = 30\\sqrt{2} \\approx 42,4\\text{ m}$.",
+  "answer": "42,4"
+ },
+ {
+  "id": "qb10g_67",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một người đi xe đạp đi vào một đường vòng nằm ngang có bán kính $R = 10\\text{ m}$ và đi hết $\\frac{3}{4}$ vòng tròn trong thời gian $8\\text{ giây}$. Tốc độ trung bình của người đi xe đạp bằng bao nhiêu $\\text{m/s}$ (làm tròn đến 2 chữ số thập phân)?",
+  "explanation": "Quãng đường đi được: $s = \\frac{3}{4} \\cdot 2\\pi R = 1,5 \\cdot \\pi \\cdot 10 = 15\\pi \\approx 47,12\\text{ m}$. Tốc độ trung bình: $v_{tb} = \\frac{s}{t} = \\frac{15\\pi}{8} \\approx 5,89\\text{ m/s}$ (độ lớn độ dịch chuyển là $d = R\\sqrt{2} \\approx 14,14\\text{ m}$).",
+  "answer": "5,89"
+ },
+ {
+  "id": "qb10g_68",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_5",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Trái Đất quay một vòng quanh Mặt Trời trong thời gian $365\\text{ ngày } 6\\text{ giờ}$. Xem chuyển động này gần đúng là chuyển động tròn với bán kính quỹ đạo $R = 1,5 \\cdot 10^{11}\\text{ m}$. Tốc độ trung bình của Trái Đất khi hoàn thành một vòng quanh Mặt Trời bằng bao nhiêu $\\text{km/s}$ (làm tròn đến 1 chữ số thập phân)?",
+  "explanation": "Chu vi quỹ đạo: $s = 2\\pi R = 2\\pi \\cdot 1,5 \\cdot 10^{11} \\approx 9,4248 \\cdot 10^{11}\\text{ m}$. Thời gian một vòng: $t = 365,25 \\cdot 86400 = 31557600\\text{ s}$. Tốc độ trung bình: $v_{tb} = \\frac{s}{t} \\approx 29865\\text{ m/s} \\approx 29,9\\text{ km/s}$ (độ dịch chuyển và vận tốc trung bình sau 1 vòng đều bằng $0$).",
+  "answer": "29,9"
+ },
+ {
+  "id": "qb10g_69",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một người lái xe máy đang chạy xe theo chiều dương với vận tốc $54\\text{ km/h}$ thì nhìn thấy một hố sâu trước mặt, người ấy kịp thời phanh gấp xe thì xe tiếp tục chạy thêm $5\\text{ s}$ nữa mới dừng lại. Gia tốc của xe bằng bao nhiêu $\\text{m/s}^2$?",
+  "explanation": "Đổi $v_0 = 54\\text{ km/h} = 15\\text{ m/s}$, khi dừng hẳn $v = 0$. Gia tốc của xe: $a = \\frac{v - v_0}{t} = \\frac{0 - 15}{5} = -3\\text{ m/s}^2$.",
+  "answer": "-3"
+ },
+ {
+  "id": "qb10g_70",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một xe ô tô tự lái đang chuyển động với vận tốc $36\\text{ km/h}$ thì gặp đèn đỏ phía trước, cảm biến của xe đo được khoảng cách từ xe đến vạch dừng đèn đỏ là $20\\text{ m}$. Độ lớn gia tốc nhỏ nhất của xe để xe không chạm vạch kẻ đường bằng bao nhiêu $\\text{m/s}^2$?",
+  "explanation": "Đổi $v_0 = 36\\text{ km/h} = 10\\text{ m/s}$. Để dừng lại đúng vạch ($v = 0, s = 20\\text{ m}$), gia tốc cần thiết thỏa mãn $0^2 - 10^2 = 2 \\cdot a \\cdot 20 \\Rightarrow a = -2,5\\text{ m/s}^2$. Vậy độ lớn gia tốc nhỏ nhất là $2,5\\text{ m/s}^2$.",
+  "answer": "2,5"
+ },
+ {
+  "id": "qb10g_71",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Dựa vào đồ thị vận tốc – thời gian $(v - t)$ của một xe chuyển động thẳng theo một chiều: từ $0$ đến $5\\text{ s}$ vận tốc tăng đều từ $0$ lên $10\\text{ m/s}$; từ $5\\text{ s}$ đến $10\\text{ s}$ giữ nguyên ở $10\\text{ m/s}$; từ $10\\text{ s}$ đến $20\\text{ s}$ giảm đều từ $10\\text{ m/s}$ về $0$. Quãng đường xe đi được sau $20\\text{ giây}$ chuyển động bằng bao nhiêu mét?",
+  "explanation": "Gia tốc các giai đoạn: $a_1 = 2\\text{ m/s}^2$, $a_2 = 0$, $a_3 = -1\\text{ m/s}^2$. Quãng đường đi được bằng diện tích hình thang dưới đồ thị $(v - t)$: $s = \\frac{(5 + 20) \\cdot 10}{2} = 125\\text{ m}$.",
+  "answer": "125"
+ },
+ {
+  "id": "qb10g_72",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Một máy bay chở hàng đang bay ngang với tốc độ $360\\text{ km/h}$, ở độ cao $1\\text{ km}$ thì thả một gói hàng cứu trợ xuống một làng đang bị lũ lụt. Lấy $g = 10\\text{ m/s}^2$ và bỏ qua sức cản không khí. Tầm xa của gói hàng bằng bao nhiêu mét (làm tròn đến hàng đơn vị)?",
+  "explanation": "Đổi $v_0 = 360\\text{ km/h} = 100\\text{ m/s}$, $h = 1000\\text{ m}$. Thời gian rơi: $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 1000}{10}} = 10\\sqrt{2}\\text{ s}$. Tầm xa: $L = v_0 t = 100 \\cdot 10\\sqrt{2} \\approx 1414\\text{ m}$ (vận tốc chạm đất $v = \\sqrt{v_0^2 + 2gh} = \\sqrt{100^2 + 20000} \\approx 173,2\\text{ m/s}$).",
+  "answer": "1414"
+ },
+ {
+  "id": "qb10g_73",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một chất điểm chịu lực tác dụng đồng thời của hai lực thành phần vuông góc với nhau có độ lớn lần lượt là $F_1 = 15\\text{ N}$ và $F_2$. Biết hợp lực của hai lực trên có độ lớn là $25\\text{ N}$. Giá trị của $F_2$ bằng bao nhiêu Niu-tơn?",
+  "explanation": "Vì $\\vec{F}_1 \\perp \\vec{F}_2$ nên $F^2 = F_1^2 + F_2^2 \\Rightarrow F_2 = \\sqrt{F^2 - F_1^2} = \\sqrt{25^2 - 15^2} = 20\\text{ N}$.",
+  "answer": "20"
+ },
+ {
+  "id": "qb10g_74",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_12",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Một máy bay bay theo phương ngang ở độ cao $10\\text{ km}$ với tốc độ $720\\text{ km/h}$. Viên phi công phải thả quả bom từ xa cách mục tiêu (theo phương ngang) bao nhiêu $\\text{km}$ để quả bom rơi trúng mục tiêu? Lấy $g = 10\\text{ m/s}^2$ (làm tròn đến 2 chữ số thập phân).",
+  "explanation": "Đổi $h = 10000\\text{ m}$, $v_0 = 720\\text{ km/h} = 200\\text{ m/s}$. Thời gian bom rơi: $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 10000}{10}} = 20\\sqrt{5}\\text{ s}$. Khoảng cách theo phương ngang: $L = v_0 t = 200 \\cdot 20\\sqrt{5} \\approx 8944,27\\text{ m} \\approx 8,94\\text{ km}$.",
+  "answer": "8,94"
+ },
+ {
+  "id": "qb10g_75",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_9",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một ô tô đang chạy trên đường thẳng không đổi chiều với vận tốc $18\\text{ km/h}$ thì tăng tốc chuyển động nhanh dần đều. Sau $20\\text{ giây}$, ô tô đạt được vận tốc $36\\text{ km/h}$. Quãng đường mà ô tô đi được trong khoảng thời gian đó bằng bao nhiêu mét?",
+  "explanation": "Đổi $v_0 = 18\\text{ km/h} = 5\\text{ m/s}$, $v = 36\\text{ km/h} = 10\\text{ m/s}$. Gia tốc: $a = \\frac{10 - 5}{20} = 0,25\\text{ m/s}^2$. Quãng đường đi được: $s = v_0 t + \\frac{1}{2}at^2 = 5 \\cdot 20 + \\frac{1}{2} \\cdot 0,25 \\cdot 20^2 = 150\\text{ m}$.",
+  "answer": "150"
+ },
+ {
+  "id": "qb10g_76",
+  "grade": "10",
+  "chapterId": "c10_2",
+  "lessonId": "l10_2_10",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một vật rơi tự do từ độ cao $45\\text{ m}$. Bỏ qua sức cản của không khí. Lấy $g = 10\\text{ m/s}^2$. Quãng đường vật rơi trong $1\\text{ s}$ cuối bằng bao nhiêu mét?",
+  "explanation": "Thời gian rơi: $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\cdot 45}{10}} = 3\\text{ s}$. Vận tốc chạm đất: $v = gt = 30\\text{ m/s}$. Quãng đường vật rơi trong $1\\text{ s}$ cuối: $\\Delta s = h - \\frac{1}{2}g(t - 1)^2 = 45 - \\frac{1}{2} \\cdot 10 \\cdot 2^2 = 25\\text{ m}$.",
+  "answer": "25"
+ },
+ {
+  "id": "qb10g_77",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một chất điểm chịu tác dụng của hai lực thành phần có độ lớn $F_1 = 9\\text{ N}$ và $F_2 = 12\\text{ N}$. Biết hợp lực của hai lực này có giá trị $15\\text{ N}$. Góc tạo bởi $\\vec{F}_1$ và $\\vec{F}_2$ bằng bao nhiêu độ?",
+  "explanation": "Ta thấy $F_1^2 + F_2^2 = 9^2 + 12^2 = 225 = 15^2 = F^2$. Theo định lí Pytago đảo, hai lực $\\vec{F}_1$ và $\\vec{F}_2$ vuông góc với nhau, góc tạo bởi chúng bằng $90^\\circ$.",
+  "answer": "90"
+ },
+ {
+  "id": "qb10g_78",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một chất điểm chịu tác dụng của hai lực thành phần có độ lớn $F_1 = 20\\text{ N}$ và $F_2 = 20\\text{ N}$ hợp với nhau góc $30^\\circ$. Độ lớn của hợp hai lực trên bằng bao nhiêu Niu-tơn (làm tròn đến hàng phần mười)?",
+  "explanation": "Độ lớn hợp lực: $F = \\sqrt{F_1^2 + F_2^2 + 2F_1F_2\\cos 30^\\circ} = 2F_1\\cos 15^\\circ = 2 \\cdot 20 \\cdot \\cos 15^\\circ \\approx 38,6\\text{ N}$.",
+  "answer": "38,6"
+ },
+ {
+  "id": "qb10g_79",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 3,
+  "image": "",
+  "question": "Có 3 lực đồng quy $\\vec{F}_1, \\vec{F}_2, \\vec{F}_3$ đồng phẳng có cùng độ lớn $F_1 = F_2 = F_3 = 10\\text{ N}$, trong đó $\\vec{F}_2$ nằm giữa và hợp với $\\vec{F}_1$, $\\vec{F}_3$ các góc đều bằng $60^\\circ$. Lực tổng hợp của chúng có độ lớn bằng bao nhiêu Niu-tơn (làm tròn đến hàng đơn vị)?",
+  "explanation": "Hợp lực của $\\vec{F}_1$ và $\\vec{F}_3$ (hợp với nhau góc $120^\\circ$ và có độ lớn bằng nhau) cùng hướng với $\\vec{F}_2$ và có độ lớn $F_{13} = 2F_1\\cos 60^\\circ = 2 \\cdot 10 \\cdot 0,5 = 10\\text{ N}$. Tổng hợp với $\\vec{F}_2$ cùng chiều ta được $F = F_{13} + F_2 = 10 + 10 = 20\\text{ N}$.",
+  "answer": "20"
+ },
+ {
+  "id": "qb10g_80",
+  "grade": "10",
+  "chapterId": "c10_3",
+  "lessonId": "l10_3_13",
+  "qType": "exercise",
+  "format": "short",
+  "level": 2,
+  "image": "",
+  "question": "Một chất điểm chịu tác dụng đồng thời của hai lực thành phần vuông góc với nhau có độ lớn lần lượt là $F_1 = 10\\text{ N}$ và $F_2$. Biết hợp lực trên có độ lớn là $10\\sqrt{5}\\text{ N}$. Giá trị của $F_2$ là bao nhiêu Niu-tơn (làm tròn đến hàng đơn vị)?",
+  "explanation": "Vì $\\vec{F}_1 \\perp \\vec{F}_2$ nên $F_2 = \\sqrt{F^2 - F_1^2} = \\sqrt{(10\\sqrt{5})^2 - 10^2} = \\sqrt{500 - 100} = \\sqrt{400} = 20\\text{ N}$.",
+  "answer": "20"
+ }
+]

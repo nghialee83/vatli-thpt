@@ -632,7 +632,7 @@
         const STORAGE_KEY = 'vatli_thpt_gdpt2018_v5';
         const PROGRESS_KEY = 'vatli_thpt_progress_v5';
         // Tăng số này mỗi lần cập nhật nội dung rồi đưa lại lên host
-        const DATA_VERSION = '2026-11-16-q10';
+        const DATA_VERSION = '2026-11-16-clean';
         const VERSION_KEY = 'vatli_thpt_data_version';
 
         const LEVEL_META = {
@@ -649,13 +649,16 @@
             d.curriculum['12'].chapters = JSON.parse(JSON.stringify(SGK_DATA['12']));
             d.curriculum['11'].chapters = [];
             d.curriculum['11'].semesterReviewNotes = {};
-            const byLesson = { l10_1_1: ['c10_2', 'l10_2_4'], l10_1_2: ['c10_2', 'l10_2_9'], l10_2_1: ['c10_3', 'l10_3_14'], l12_1_1: ['c12_1', 'l12_1_2'] };
-            const byId = { qb_10_13: ['c10_2', 'l10_2_10'], qb_12_4: ['c12_1', 'l12_1_5'] };
-            const drop = new Set(['qb_10_12', 'qb_10_14', 'qb_12_5']); // ngoài phạm vi Bài 1–14
-            d.questionBank = d.questionBank
-                .filter(q => q.grade !== '11' && !drop.has(q.id))
-                .map(q => { const m = byId[q.id] || byLesson[q.lessonId]; if (m) { q.chapterId = m[0]; q.lessonId = m[1]; } return q; });
-            d.questionBank = d.questionBank.concat(JSON.parse(JSON.stringify(Q10_GEMINI)), JSON.parse(JSON.stringify(Q12_GEMINI)));
+            // Ngân hàng câu hỏi: CHỈ gồm 4 file Gemini (Vật lí 10 & 12)
+            d.questionBank = [].concat(JSON.parse(JSON.stringify(Q10_GEMINI)), JSON.parse(JSON.stringify(Q12_GEMINI)));
+            // Ôn tập cuối kì: dựng lại từ lí thuyết SGK mới
+            ['10', '12'].forEach(g => {
+                const name = g === '10' ? 'Vật Lí 10' : 'Vật Lí 12';
+                d.curriculum[g].semesterReviewNotes = {
+                    hk1: { title: 'Ôn Tập Kiến Thức Trọng Tâm Học Kì 1 — ' + name,
+                           sections: d.curriculum[g].chapters.map(ch => ({ heading: ch.title, points: ch.lessons.flatMap(l => l.theory.formulas.slice(0, 2)) })) }
+                };
+            });
             d.examMatrices = d.examMatrices.filter(m => m.grade !== '11').map(m => {
                 if (m.scopeId === 'c10_1::l10_1_1') { m.scopeId = 'c10_2::l10_2_4'; m.title = 'Đề Kiểm Tra Bài 4 — Độ dịch chuyển và quãng đường'; }
                 else if (m.scopeId === 'c10_1') { m.scopeId = 'c10_2'; m.title = 'Đề Kiểm Tra Chương II — Động học (Ma Trận)'; }
